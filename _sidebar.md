@@ -1,0 +1,5 @@
+- [Home](index.html)
+- Classes
+	- [Warrior](Warrior.md)
+	- [Rogue](Rogue.md)
+	- [Mage](Mage.md)
