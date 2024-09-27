@@ -37,3 +37,4 @@ See the Off-Hand Proficiency trait for additional rules.
 ## House Rules
 - Updated the [Warrior](Warrior.md) class.
 - Updated the [Rogue](Rogue.md) class.
+- Updated the [Mage](Mage.md) class.

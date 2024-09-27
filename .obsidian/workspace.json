@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a6569823ec83954b",
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mage.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mage.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mage.md"
+                "file": "README.md"
               }
             }
           }
@@ -193,12 +192,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "2452e3eccd06c13c",
+  "active": "2476efebf416e3d8",
   "lastOpenFiles": [
+    "Mage.md",
     "Rogue.md",
     "README.md",
     "Warrior.md",
-    "Mage.md",
     "Mage",
     "_templates"
   ]
