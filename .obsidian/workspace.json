@@ -57,24 +57,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "01786f3ae4c0b33d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6fe1e7e36d86c484",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_sidebar.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -205,10 +187,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6fe1e7e36d86c484",
+  "active": "acc3a2087c69fa0d",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled.md",
     "_sidebar.md",
+    "_footer.md",
+    "README.md",
     "Mage.md",
     "Rogue.md",
     "Warrior.md",
