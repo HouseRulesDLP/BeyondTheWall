@@ -1,4 +1,4 @@
-- [Home](index.html)
+- [Home](/)
 - Classes
 	- [Warrior](Warrior.md)
 	- [Rogue](Rogue.md)
