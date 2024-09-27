@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warrior.md",
+                "file": "_sidebar.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warrior.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warrior.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warrior.md"
+                "file": "_sidebar.md"
               }
             }
           }
@@ -195,10 +195,10 @@
   },
   "active": "acc3a2087c69fa0d",
   "lastOpenFiles": [
+    "Warrior.md",
     "Rogue.md",
     "Mage.md",
     "_sidebar.md",
-    "Warrior.md",
     "CoinAndItsUses.md",
     "README.md",
     "node_modules/deploy/test/simple-test.sh",
