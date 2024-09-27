@@ -189,14 +189,23 @@
   },
   "active": "acc3a2087c69fa0d",
   "lastOpenFiles": [
+    "node_modules/deploy/test/simple-test.sh",
+    "node_modules/deploy/test/branches-test.sh",
+    "node_modules/deploy/test/assert.sh",
+    "node_modules/deploy/test/assert.out",
+    "node_modules/deploy/test",
+    "node_modules/deploy/readme.markdown",
+    "node_modules/deploy/package.json",
+    "node_modules/deploy/deploy",
+    "node_modules/deploy/bootstrap",
+    "node_modules/deploy/addkeys",
+    "node_modules/deploy",
     "Untitled.md",
     "_sidebar.md",
     "_footer.md",
     "README.md",
     "Mage.md",
     "Rogue.md",
-    "Warrior.md",
-    "Mage",
-    "_templates"
+    "Warrior.md"
   ]
 }
