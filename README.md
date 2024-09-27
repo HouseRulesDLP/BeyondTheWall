@@ -12,6 +12,20 @@ These values are further modified by the character's Ability Score Modifiers.
 - **Will:** use the highest of Wisdom or Charisma
 
 ### Always Roll High
+As given except that 12 is just the normal difficulty.  Checks will be against one of the difficulties given on Difficulty Table.
+
+|   Difficulty    | Target # |
+|:---------------:|:--------:|
+|    Very Easy    |    6+    |
+|      Easy       |    9+    |
+|    Moderate     |   12+    |
+|     Tricky      |   15+    |
+|      Hard       |   18+    |
+|    Very Hard    |   21+    |
+|     Heroic      |   24+    |
+|    Legendary    |   27+    |
+| Nigh Impossible |   30+    |
+
 
 ### Combat Options
 
@@ -38,3 +52,4 @@ See the Off-Hand Proficiency trait for additional rules.
 - Updated the [Warrior](Warrior.md) class.
 - Updated the [Rogue](Rogue.md) class.
 - Updated the [Mage](Mage.md) class.
+- Expanded the [Equipment](CoinAndItsUses.md) chart (especially [Weapons](CoinAndItsUses.md#Weapons) and [Armor](CoinAndItsUses.md#Armor).

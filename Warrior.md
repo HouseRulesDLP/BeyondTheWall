@@ -5,8 +5,8 @@
 - **Armor:** Any
 
 ## Starting Equipment
-- A Warrior's Pack or Explorer's Pack
-- 4d6sp
+- A [Warrior's Pack](CoinAndItsUses.md#equipment-packs) or [Explorer's Pack](CoinAndItsUses.md#equipment-packs)
+- 3d6sp
 
 ## Class Abilities
 As given in the core rules plus the following:

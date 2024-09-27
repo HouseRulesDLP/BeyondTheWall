@@ -5,7 +5,7 @@
 - **Armor:** Light and Medium plus Bucklers
 
 ## Starting Equipment
-- A Rogue's Pack or Explorer's Pack
+- A [Rogue's Pack](CoinAndItsUses.md#equipment-packs) or [Explorer's Pack](CoinAndItsUses.md#equipment-packs)
 - 4d6sp
 
 ## Class Abilities

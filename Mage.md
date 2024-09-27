@@ -5,8 +5,8 @@
 - **Armor:** Light
 
 ## Starting Equipment
-- A Mage's Pack or Explorer's Pack
-- 4d6sp
+- A [Mage's Pack](CoinAndItsUses.md#equipment-packs) or [Explorer's Pack](CoinAndItsUses.md#equipment-packs)
+- 2d6sp
 
 ## Class Abilities
 As given in the core rules plus the following:

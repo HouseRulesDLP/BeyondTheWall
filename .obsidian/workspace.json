@@ -25,31 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "Warrior.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "f034c68686402026",
+            "id": "46c7eda9305516ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rogue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2452e3eccd06c13c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mage.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -57,6 +45,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "38899514465f7887",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf32d19ef682225b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CoinAndItsUses.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "Warrior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "Warrior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "Warrior.md"
               }
             }
           }
@@ -189,6 +195,12 @@
   },
   "active": "acc3a2087c69fa0d",
   "lastOpenFiles": [
+    "Rogue.md",
+    "Mage.md",
+    "_sidebar.md",
+    "Warrior.md",
+    "CoinAndItsUses.md",
+    "README.md",
     "node_modules/deploy/test/simple-test.sh",
     "node_modules/deploy/test/branches-test.sh",
     "node_modules/deploy/test/assert.sh",
@@ -199,13 +211,6 @@
     "node_modules/deploy/deploy",
     "node_modules/deploy/bootstrap",
     "node_modules/deploy/addkeys",
-    "node_modules/deploy",
-    "Untitled.md",
-    "_sidebar.md",
-    "_footer.md",
-    "README.md",
-    "Mage.md",
-    "Rogue.md",
-    "Warrior.md"
+    "_footer.md"
   ]
 }
