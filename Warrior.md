@@ -1,12 +1,11 @@
 # Warrior
-
 - **Hit Dice:** d8+2
 - **Initiative Bonus:** +1
 - **Weapons:** Any
 - **Armor:** Any
 
 ## Starting Equipment
-- A Warrior's Pack
+- A Warrior's Pack or Explorer's Pack
 - 4d6sp
 
 ## Class Abilities
@@ -28,7 +27,7 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
 - **Cavalry:** While mounted, you gain +1 to hit and +2 damage.  Additionally, whatever creature you are mounted on gains +1 AC and +1 to its Morale.
 - **Cleave:** Immediately after one of your attacks drops a foe to 0 hit points, you may make another attack. If you have movement remaining, you may move between attacks.
 - **Great Weapon Fighter:** When wielding a Heavy 2-handed weapon, any damage dice that show a 1 or 2 may be re-rolled.  Use the higher result.
-- **Mighty Shoot:** You may use your Battle Maneuvers ability with ranged attacks.
+- **Mighty Shot:** You may use your Battle Maneuvers ability with ranged attacks.
 - **Shield Master:** While using this ability, you may add your shield bonus to your Reflex saves.  You also increase your AC bonus from shields by +1.
 
 ## Updated Warrior Table
