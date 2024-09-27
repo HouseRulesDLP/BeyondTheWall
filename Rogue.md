@@ -24,16 +24,16 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
 - **Watchful:** So long as you are conscious, you have Advantage on perception rolls to spot an ambush and you are never considered “unaware” of attacks.
 
 ## Updated Rogue Table
-| Level | Base<br/>Attack<br/>Bonus | Fortitude | Reflex | Will | Skills | Traits | Knacks | Notes |
-|:-----:|:-------------------------:|:---------:|:------:|:----:|:------:|:------:|:------:|:------|
-|   1   |  +0                       | 16+       | 15+    | 16+  | 4      | 0      | 1      |  |
-|   2   |  +1                       | 16+       | 14+    | 15+  | --     | 1      | --     | Sneak Attack (+1d4) |
-|   3   |  +1                       | 15+       | 13+    | 15+  | +1     | --     | --     |  |
-|   4   |  +2                       | 15+       | 12+    | 14+  | --     | --     | +1     |  |
-|   5   |  +3                       | 14+       | 11+    | 14+  | +1     | --     | --     |  |
-|   6   |  +3                       | 14+       | 10+    | 13+  | --     | +1     | --     | Sneak Attack (+2d4) |
-|   7   |  +4                       | 13+       |  9+    | 13+  | +1     | --     | --     |  |
-|   8   |  +5                       | 13+       |  8+    | 12+  | --     | --     | +1     |  |
-|   9   |  +5                       | 12+       |  7+    | 12+  | +1     | --     | --     |  |
-|  10   |  +6                       | 12+       |  6+    | 11+  | --     | +1     | --     | Sneak Attack (+3d4) |
+| Level | Base<br/>Attack<br/>Bonus | Fortitude | Reflex | Will | Skills | Traits | Knacks | Notes               |
+| :---: | :-----------------------: | :-------: | :----: | :--: | :----: | :----: | :----: | :------------------ |
+|   1   |            +0             |    16+    |  15+   | 16+  |   4    |   0    |   1    |                     |
+|   2   |            +1             |    16+    |  14+   | 15+  |   --   |   1    |   --   | Sneak Attack (+1d4) |
+|   3   |            +2             |    15+    |  13+   | 15+  |   +1   |   --   |   --   |                     |
+|   4   |            +3             |    15+    |  12+   | 14+  |   --   |   --   |   +1   |                     |
+|   5   |            +4             |    14+    |  11+   | 14+  |   +1   |   --   |   --   |                     |
+|   6   |            +4             |    14+    |  10+   | 13+  |   --   |   +1   |   --   | Sneak Attack (+2d4) |
+|   7   |            +5             |    13+    |   9+   | 13+  |   +1   |   --   |   --   |                     |
+|   8   |            +6             |    13+    |   8+   | 12+  |   --   |   --   |   +1   |                     |
+|   9   |            +7             |    12+    |   7+   | 12+  |   +1   |   --   |   --   |                     |
+|  10   |            +8             |    12+    |   6+   | 11+  |   --   |   +1   |   --   | Sneak Attack (+3d4) |
 

@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "bf633e19cf0ff959",
+            "id": "f034c68686402026",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warrior.md",
+                "file": "Rogue.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
           {
-            "id": "92da383e6094f9a8",
+            "id": "2452e3eccd06c13c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Mage.md",
                 "mode": "source",
                 "source": true
               }
@@ -47,16 +47,16 @@
         "currentTab": 2
       },
       {
-        "id": "16ff643792ee7db6",
+        "id": "a6569823ec83954b",
         "type": "tabs",
         "children": [
           {
-            "id": "f68c1ef1fcd356ca",
+            "id": "faad7fb27c7a4c0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rogue.md",
+                "file": "Mage.md",
                 "mode": "preview",
                 "source": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Mage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Mage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Mage.md"
               }
             }
           }
@@ -193,11 +193,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "92da383e6094f9a8",
+  "active": "2452e3eccd06c13c",
   "lastOpenFiles": [
     "Rogue.md",
-    "Warrior.md",
     "README.md",
+    "Warrior.md",
+    "Mage.md",
+    "Mage",
     "_templates"
   ]
 }
