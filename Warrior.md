@@ -4,6 +4,15 @@
 - **Weapons:** Any
 - **Armor:** Any
 
+# Table of Contents
+- [Starting Equipment](#starting-equipment)
+- [Class Abilities](#class-abilities)
+	- [Battle Maneuvers](#battle-maneuvers)
+	- [Hauler](#hauler)
+	- [Minimum Damage](#minimum-damage)
+	- [Knacks](#knacks)
+- [Updated Warrior Table](#updated-warrior-table)
+
 ## Starting Equipment
 - A [Warrior's Pack](CoinAndItsUses.md#equipment-packs) or [Explorer's Pack](CoinAndItsUses.md#equipment-packs)
 - 3d6sp

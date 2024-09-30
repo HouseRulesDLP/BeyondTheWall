@@ -4,6 +4,13 @@
 - **Weapons:** Light and Medium
 - **Armor:** Light and Medium plus Bucklers
 
+# Table of Contents
+- [Starting Equipment](#starting-equipment)
+- [Class Abilities](#class-abilities)
+	- [Sneak Attack](#sneak-attack)
+	- [Knacks](#knacks)
+- [Updated Rogue Table](#updated-rogue-table)
+
 ## Starting Equipment
 - A [Rogue's Pack](CoinAndItsUses.md#equipment-packs) or [Explorer's Pack](CoinAndItsUses.md#equipment-packs)
 - 4d6sp

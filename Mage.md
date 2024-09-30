@@ -4,6 +4,11 @@
 - **Weapons:** Light
 - **Armor:** Light
 
+# Table of Contents
+- [Starting Equipment](#starting-equipment)
+- [Class Abilities](#class-abilities)
+- [Updated Mage Table](#updated-mage-table)
+
 ## Starting Equipment
 - A [Mage's Pack](CoinAndItsUses.md#equipment-packs) or [Explorer's Pack](CoinAndItsUses.md#equipment-packs)
 - 2d6sp

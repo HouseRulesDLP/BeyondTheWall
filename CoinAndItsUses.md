@@ -1,5 +1,34 @@
 # Coin and Its Uses
 
+# Table of Contents
+- [Encumbrance](#encumbrance)
+	- [Readied Items](#readied-items)
+	- [Stowed Items](#stowed-items)
+	- [Excessive Encumbrance](#excessive-encumbrance)
+- [Coinage](#coinage)
+- [Quality](#quality)
+- [Rarity](#rarity)
+- [Haggling](#haggling)
+- [Weapons](#weapons)
+	- [Weapon Properties](#weapon-properties)
+	- [Damage Types](#damage-types)
+	- [Weight](#weight)
+	- [Ranges](#ranges)
+	- [Melee Weapons](#melee-weapons)
+	- [Ranged Weapons](#ranged-weapons)
+- [Armor](#armor)
+	- [Armor Properties](#armor-properties)
+	- [Armor List](#armor-list)
+	- [Donning and Doffing Armor](#donning-and-doffing-armor)
+- [Gear](#gear)
+	- [Equipment Packs](#equipment-packs)
+	- [Food and Shelter](#food-and-shelter)
+	- [Services](#services)
+	- [Mounts, Livestock and Transport](#mounts-livestock-and-transport)
+	- [Tack and Harness](#tack-and-harness)
+	- [Drawn Vehicles](#drawn-vehicles)
+- [Lifestyle Expenses](#lifestyle-expenses)
+
 ## Encumbrance
 Any given character can only carry so much.  Some groups may wish to handwave the tracking of encumbrance and that's completely understandable.  The rules here are meant to provide some degree of verisimilitude without having to track pounds and ounces of carried gear and treasure.
 
@@ -415,7 +444,7 @@ Encumbrance is in **Slots** when the vehicle is being pulled and does not accoun
 | Sled     |  20sp |  40         |  |
 | Wagon    |  50sp |  80         |  |
 
-### Lifestyle Expenses
+## Lifestyle Expenses
 Between adventures your character needs to be able to rest and heal.  Doing so in style costs money.  The table below lists the daily price to maintain a particular lifestyle.  Each lifestyle rank, aside from Modest, can impact your character’s social interactions and how well they can rest and heal.
 
 A **Squalid** lifestyle basically means the character is homeless and penniless.  Others, even others living in squalid conditions, will look down on your filthy hygiene and ragged appearance.  As a result you have Disadvantage on any checks for social interaction.  Additionally, you must pass at difficulty 15 Constitution Check to recover any levels of Exhaustion.

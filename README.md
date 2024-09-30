@@ -48,8 +48,12 @@ See the Off-Hand Proficiency trait for additional rules.
 
 ### Multiclass Characters
 
+### Character Traits
+Some of these have been modified (see the [Traits](Traits.md) document).
+
 ## House Rules
 - Updated the [Warrior](Warrior.md) class.
 - Updated the [Rogue](Rogue.md) class.
 - Updated the [Mage](Mage.md) class.
 - Expanded the [Equipment](CoinAndItsUses.md) chart (especially [Weapons](CoinAndItsUses.md#Weapons) and [Armor](CoinAndItsUses.md#Armor).
+- Updated several existing [Traits](Traits.md) and added new ones.

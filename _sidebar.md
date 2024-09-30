@@ -16,3 +16,4 @@
 	- [Services](CoinAndItsUses.md#services)
 	- [Mounts, Livestock and Transport](CoinAndItsUses.md#mounts-livestock-and-transport)
 	- [Lifestyle Expenses](CoinAndItsUses.md#lifestyle-expenses)
+- [Character Traits](Traits.md)
