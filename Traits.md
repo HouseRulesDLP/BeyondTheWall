@@ -98,7 +98,7 @@ You recover an additional Hit Die after a short or long rest.
 Instead of auto-passing fear-related checks, this character has Advantage on any such checks.
 
 #### Linguist
-Due to study and a gift for languages, this character knows three additional languages.  This trait may be taken multiple times, gaining three new languages each time.
+Due to study and a gift for languages, this character knows three additional languages (one of which may be rare).  This trait may be taken multiple times, gaining three new languages each time.
 
 #### Reserves of Strength
 This ability has been replaced by [Second Wind](#second-wind).
@@ -239,13 +239,13 @@ This character picks two spells that she already knows.  Saving Throws to resist
 After a great deal of practice, this character has mastered a particular type of magic. Choose two  spells known by the character; this mage gains +5 on all invocation rolls for the spells in question.  This trait may be taken multiple times, applying to different spells each time.
 
 #### Touched by Magic
-Some have a wild, untrained gift for Magic; others learn just a bit and then do not continue their studies.  Pick two Cantrips or 1 Spell.  This character can now cast them.  She has 2 Invocation Dice with which to invoke these spells. Any spell cast using this trait must always cast at its base rank.  This Trait does nothing for spellcasting classes.  This trait may be taken multiple times to learn additional magic but no additional Invocation Dice are gained.
+Some have a wild, untrained gift for Magic; others learn just a bit and then do not continue their studies.  Pick two Cantrips or 1 Spell.  This character can now cast them.  She has a number of Invocation Dice with which to invoke these spells equal to her Wisdom Modifier. Any spell cast using this trait must always cast at its base rank.  This Trait does nothing for spell casting classes.  This trait may be taken multiple times to learn additional magic but no additional Invocation Dice are gained.
 
 #### Ultimate Enchantment
 removed
 
 #### War Wizard
-Through martial training and practice, your mage has learned how best to harness the destructive powers of magic. He may add his Ability Modifier to the damage of any spell or cantrip he casts.  The Ability Modifier used is the one named by the magical art itself.
+Through martial training and practice, your mage has learned how best to harness the destructive powers of magic. He may add his Ability Modifier to the damage of any spell or cantrip he casts.  The Ability Modifier used is the one named by the magical art itself.  Additionally, concentration checks are made with Advantage.
 
 ### New Traits
 
@@ -266,7 +266,7 @@ This mage may spend a Fortune Point to regain a number of expended Invocation Di
 replaced by [Wilderness Friend](#wilderness-friend).
 
 #### Earth Caller
-replaced by Elemental Caller.
+replaced by [Elemental Caller](#elemental-caller).
 
 #### Insight
 replaced by [Soul Gaze](#soul-gaze)
@@ -295,7 +295,7 @@ Select a particular elemental type (earth, air, fire or water) when this trait i
 This character has been exposed to the magic of Faerie or has fae blood running in their veins.  They gain a +2 bonus to any Saving Throw vs magic.  Additionally, after reaching adulthood, their aging tends to slow to half the normal rate for their species.  Characters that are already Fae Blooded (such as Dwarves, Elves and Goblins) cannot take this trait.
 
 #### Healing Touch
-This character’s hands have the power to heal the sick and wounded. He may lay hands on another and grant them the same benefits as a Short Rest (though this does not count against the number of short rests they may take in a day).  Once this trait has been used, it cannot be used again until he completes a Long Rest.  This trait may be taken multiple times, to gain additional uses of this ability (regaining only 1 use per Long Rest).
+This character’s hands have the power to heal the wounded. He may lay hands on another and grant them the same benefits as a Short Rest (though this does not count against the number of short rests they may take in a day).  Once this trait has been used, it cannot be used again until he completes a Long Rest.  This trait may be taken multiple times, to gain additional uses of this ability (regaining only 1 use per Long Rest).
 
 #### Infuse Weapon
 This character may infuse part of her soul into her weapon attacks (including unarmed).  When she does so, her attacks are treated as magical for the next minute, after which she gains 1 level of Exhaustion.
