@@ -25,8 +25,12 @@ Each warrior-mage gains a number of Invocation Dice based on their level plus th
 As part of your apprenticeship, you created a unique magical focus to aid in your spell casting. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 inventory slot. So long as you have your Magical Focus in hand when casting a spell, you roll d8s for your Invocation Dice instead of d6s. A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 500sp worth of materials.
 
 ### Knacks
+Each knack may only be chosen once unless specified otherwise.
 - **Archer:** Attacking at Far range does not cause you Disadvantage on the attack.
+- **Defensive Fighter:** +1 AC (may be taken multiple times)
 - **Mighty Shot:** You may use your Battle Maneuvers ability with ranged attacks.
+- **Resilience:** +1 to all saving throws (may be taken multiple times)
+- **Weapon Specialist:** gain Weapon Specialization with a single weapon (may be taken multiple times; applying to a different weapon each time)
 
 ## Warrior-Mage Table
 | Level | Base<br/>Attack<br/>Bonus | Fortitude | Reflex | Will | Skills | Traits | Knacks | Invocation<br/>Dice | Notes |

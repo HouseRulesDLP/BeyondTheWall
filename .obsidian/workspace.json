@@ -37,8 +37,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Rogue-Mage.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "46c28f89a5f83ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warrior-Rogue.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7fe9f3c45c785a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warrior-Mage.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -110,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Rogue-Mage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Rogue-Mage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Rogue-Mage.md"
               }
             }
           }
@@ -177,12 +203,15 @@
   },
   "active": "5d23f9123bff61f2",
   "lastOpenFiles": [
+    "Warrior-Rogue.md",
+    "Warrior-Mage.md",
+    "Rogue-Mage.md",
+    "README.md",
     "Warrior.md",
     "Traits.md",
     "Rogue.md",
     "Mage.md",
     "CoinAndItsUses.md",
-    "README.md",
     "_sidebar.md",
     "node_modules/deploy/test/simple-test.sh",
     "node_modules/deploy/test/branches-test.sh",

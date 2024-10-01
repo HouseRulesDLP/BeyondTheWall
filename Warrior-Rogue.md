@@ -20,16 +20,25 @@
 ### Battle Maneuvers
 Once per turn, when you make a melee attack, you may attempt a Battle Maneuver.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Battle Maneuver target number, the maneuver succeeds.  Note that the Battle Maneuver cannot add to the damage of the attack and the target may be allowed a Saving Throw.
 
+### Fortune's Favor
+Warrior-Rogues add 1 extra Fortune Point to both their Base and Max fortune point limits.
+
+### Highly Skilled
+Warrior-Rogues receive 1 extra Skill at 1st level.  They gain additional skills as shown in the table below.
+
 ### Knacks
-Knacks are now gained at every odd level (reflected on the table below).  In addition to the listed set of knacks, the following list of knacks has also been added.  Unlike the knacks in the book, these may only be taken once each.
+Each knack may only be chosen once unless specified otherwise.
 - **Archer:** Attacking at Far range does not cause you Disadvantage on the attack.
 - **Cavalry:** While mounted, you gain +1 to hit and +2 damage.  Additionally, whatever creature you are mounted on gains +1 AC and +1 to its Morale.
 - **Cleave:** Immediately after one of your attacks drops a foe to 0 hit points, you may make another attack. If you have movement remaining, you may move between attacks.
+- **Defensive Fighter:** +1 AC (may be taken multiple times)
+- **Fleet:** +1 Initiative (may be taken multiple times)
 - **Light Footed:** Gain +10ft movement and move at full speed with no penalty to stealth so long as you are not wearing medium or heavy armor.
 - **Mighty Shot:** You may use your Battle Maneuvers ability with ranged attacks.
 - **Second Story Work:** So long as you are not wearing medium or heavy armor, your movement is not slowed when climbing or walking along narrow surfaces. Additionally, you take half damage from falls if you pass an Evasion Saving Throw at -1 per 5 feet fallen.
 - **Skulker:** While in dim lighting conditions, you have Advantage on stealth checks. Additionally, dim lighting does not impose Disadvantage on your own perception checks.
 - **Watchful:** So long as you are conscious, you have Advantage on perception rolls to spot an ambush and you are never considered “unaware” of attacks.
+- **Weapon Specialist:** gain Weapon Specialization with a single weapon (may be taken multiple times; applying to a different weapon each time)
 
 ## Warrior-Rogue Table
 | Level | Base<br/>Attack<br/>Bonus | Fortitude | Reflex | Will | Skills | Traits | Knacks | Notes               |

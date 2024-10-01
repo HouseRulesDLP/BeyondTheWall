@@ -18,6 +18,9 @@
 
 ## Class Abilities
 
+### Highly Skilled
+Rogue-Mages receive 1 extra Skill at 1st level.  They gain additional skills as shown in the table below.
+
 ### Spell Casting 
 Each rogue-mage gains a number of Invocation Dice based on their level plus their Wisdom Modifier.  These dice are used in casting spells (see the Sorcerous Arts section).  Rogue-Mages may not cast a spell of a rank higher than shown in the table below.
 
@@ -26,6 +29,7 @@ As part of your apprenticeship, you created a unique magical focus to aid in you
 
 ### Knacks
 Each knack may only be chosen once unless specified otherwise.
+- **Fortune's Favor:** Gain 1 extra Fortune Point.
 - **Light Footed:** Gain +10ft movement and move at full speed with no penalty to stealth so long as you are not wearing medium or heavy armor.
 - **Second Story Work:** So long as you are not wearing medium or heavy armor, your movement is not slowed when climbing or walking along narrow surfaces. Additionally, you take half damage from falls if you pass an Evasion Saving Throw at -1 per 5 feet fallen.
 - **Skulker:** While in dim lighting conditions, you have Advantage on stealth checks. Additionally, dim lighting does not impose Disadvantage on your own perception checks.
