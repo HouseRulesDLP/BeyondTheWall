@@ -5,10 +5,15 @@
 - **Armor:** Light, Medium, Bucklers and Shields
 
 # Table of Contents
+- [Starting Equipment](#starting-equipment)
+- [Class Abilities](#class-abilities)
+	- [Battle Maneuvers](#battle-maneuvers)
+	- [Knacks](#knacks)
+- [Warrior-Rogue Table](#warrior-rogue-table)
 
 ## Starting Equipment
 - A [Warrior's Pack](CoinAndItsUses.md#equipment-packs), [Rogue's Pack](CoinAndItsUses.md#equipment-packs) or [Explorer's Pack](CoinAndItsUses.md#equipment-packs)
-- 3d6sp
+- 2d6sp
 
 ## Class Abilities
 

@@ -56,5 +56,6 @@ Some of these have been modified (see the [Traits](Traits.md) document).
 - Updated the [Rogue](Rogue.md) class.
 - Updated the [Mage](Mage.md) class.
 - Added the [Warrior-Rogue](Warrior-Rogue.md) class.
+- Added the [Warrior-Mage](Warrior-Mage.md) class.
 - Expanded the [Equipment](CoinAndItsUses.md) chart (especially [Weapons](CoinAndItsUses.md#Weapons) and [Armor](CoinAndItsUses.md#Armor).
 - Updated several existing [Traits](Traits.md) and added new ones.
