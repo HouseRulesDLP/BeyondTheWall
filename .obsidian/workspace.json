@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
+                "file": "Warrior.md",
                 "mode": "source",
                 "source": true
               }
@@ -30,47 +30,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "5d23f9123bff61f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rogue-Mage.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "46c28f89a5f83ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warrior-Rogue.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7fe9f3c45c785a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warrior-Mage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rogue-Mage.md",
+                "file": "Warrior.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rogue-Mage.md",
+                "file": "Warrior.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rogue-Mage.md"
+                "file": "Warrior.md"
               }
             }
           }
@@ -201,18 +162,24 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "5d23f9123bff61f2",
+  "active": "acc3a2087c69fa0d",
   "lastOpenFiles": [
+    "_sidebar.md",
+    "Orc.md",
+    "README.md",
+    "Goblin.md",
+    "Human.md",
+    "Hob.md",
+    "Dwarf.md",
+    "Elf.md",
+    "Traits.md",
+    "Rogue-Mage.md",
     "Warrior-Rogue.md",
     "Warrior-Mage.md",
-    "Rogue-Mage.md",
-    "README.md",
     "Warrior.md",
-    "Traits.md",
     "Rogue.md",
     "Mage.md",
     "CoinAndItsUses.md",
-    "_sidebar.md",
     "node_modules/deploy/test/simple-test.sh",
     "node_modules/deploy/test/branches-test.sh",
     "node_modules/deploy/test/assert.sh",

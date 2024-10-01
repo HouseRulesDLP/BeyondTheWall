@@ -24,7 +24,7 @@ As given in the core rules plus the following:
 Once per turn, when you make a melee attack, you may attempt a Battle Maneuver.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Battle Maneuver target number, the maneuver succeeds.  Note that the Battle Maneuver cannot add to the damage of the attack and the target may be allowed a Saving Throw.
 
 ### Hauler
-Add your Constitution Modifier (if positive) to both your Stowed and Ready equipment lists.
+Add your Constitution Modifier (if positive) when calculating the max sizes of both your Stowed and Ready equipment lists.
 
 ### Minimum Damage
 Warriors are experts at dealing damage.  If your attack misses the target's AC by less than your level, you still deal your attack's minimum damage to the target.

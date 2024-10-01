@@ -1,4 +1,11 @@
 - [Home](/)
+- Species
+	- [Dwarf](Dwarf.md)
+	- [Elf](Elf.md)
+	- [Goblin](Goblin.md)
+	- [Hob](Hob.md)
+	- [Human](Human.md)
+	- [Orc](Orc.md)
 - Classes
 	- [Warrior](Warrior.md)
 	- [Rogue](Rogue.md)

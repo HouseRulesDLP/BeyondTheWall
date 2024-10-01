@@ -11,6 +11,9 @@ These values are further modified by the character's Ability Score Modifiers.
 - **Reflex:** use the highest of Dexterity or Intelligence.
 - **Will:** use the highest of Wisdom or Charisma
 
+### Fantastic Creatures
+See the documents for the [Dwarf](Dwarf.md), [Elf](Elf.md), [Goblin](Goblin.md), [Hob](Hob.md), [Human](Human.md) and [Orc](Orc.md) species.
+
 ### Always Roll High
 As given except that 12 is just the normal difficulty.  Checks will be against one of the difficulties given on Difficulty Table.
 
@@ -47,6 +50,7 @@ Under no circumstances is a character allowed to attack with both weapons at the
 See the Off-Hand Proficiency trait for additional rules.
 
 ### Multiclass Characters
+See the documents for the [Warrior-Rogue](Warrior-Rogue.md), [Warrior-Mage](Warrior-Mage.md) and [Rogue-Mage](Rogue-Mage.md) classes.
 
 ### Character Traits
 Some of these have been modified (see the [Traits](Traits.md) document).
