@@ -3,6 +3,7 @@
 	- [Warrior](Warrior.md)
 	- [Rogue](Rogue.md)
 	- [Mage](Mage.md)
+	- [Warrior-Rogue](Warrior-Rogue.md)
 - [Coin and its Uses](CoinAndItsUses.md)
 	- [Encumbrance](CoinAndItsUses.md#Encumbrance)
 	- [Coinage](CoinAndItsUses.md#coinage)
