@@ -308,3 +308,5 @@ This character has the frightening ability to look into another’s soul. When t
 
 #### Wilderness Friend
 Pick a terrain type (such as forest, desert, ocean, mountain, etc).  This character can never become lost in this terrain except by magical means.  Additionally, sometimes the natural spirits of the land in this terrain whisper to her and she gains +2 on any CHA roll to interact with such spirits.  This trait may be taken multiple times, applying to a different terrain type each time.
+
+- [ ] Update as needed.
