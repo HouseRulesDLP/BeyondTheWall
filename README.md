@@ -33,11 +33,7 @@ As given except that 12 is just the normal difficulty.  Checks will be against o
 ### Combat Options
 
 #### Stances
-- **Normal Stance:** unchanged
-- **Aggressive Stance:** +2 to hit, opponents attacking the character do so with Advantage.
-- **Defensive Stance:** Attack with Disadvantage, gain +2 AC.
-- **Protective Stance:** Gain +2 AC but may not attack.  If the character being protected is attacked, the attack has Disadvantage.
-- **Commanding Stance:** May not attack.  Opponents attack the commanding character with Advantage.  On a successful Charisma/Leadership check, all allies who can see and hear her gain +2 to hit for the Round.
+These have been removed in favor of [Battle Maneuvers](Battle_Maneuvers.md).
 
 #### Fighting with Two Weapons
 Replace the rules in the book with the following:<br/>
@@ -47,7 +43,7 @@ A character wielding two weapons has the option of using their off-hand weapon o
 
 Under no circumstances is a character allowed to attack with both weapons at the same time.  However, if a character has multiple attacks per Combat Turn, then they may choose which weapon to strike with each time they make an attack.
 
-See the Off-Hand Proficiency trait for additional rules.
+See the [Off-Hand Proficiency](Traits.md#off-hand%20proficiency) trait for additional rules.
 
 ### Multiclass Characters
 See the documents for the [Warrior-Rogue](Warrior-Rogue.md), [Warrior-Mage](Warrior-Mage.md) and [Rogue-Mage](Rogue-Mage.md) classes.
@@ -62,5 +58,8 @@ Some of these have been modified (see the [Traits](Traits.md) document).
 - Added the [Warrior-Rogue](Warrior-Rogue.md) class.
 - Added the [Warrior-Mage](Warrior-Mage.md) class.
 - Added the [Rogue-Mage](Rogue-Mage.md) class.
-- Expanded the [Equipment](CoinAndItsUses.md) chart (especially [Weapons](CoinAndItsUses.md#Weapons) and [Armor](CoinAndItsUses.md#Armor).
+- Added [Battle Maneuvers](Battle_Maneuvers.md) to the list of combat options.
+- Added [Critical Hits](Glossary.md#critical%20hit) to combat.
+- Added a list of broad [defined skills](Skills.md) to replace the freeform skill system.
+- Expanded the [Equipment](CoinAndItsUses.md) chart (especially [Weapons](CoinAndItsUses.md#Weapons) and [Armor](CoinAndItsUses.md#Armor)).
 - Updated several existing [Traits](Traits.md) and added new ones.

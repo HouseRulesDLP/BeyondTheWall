@@ -1,3 +1,9 @@
 {
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Courier New",
+  "monospaceFontFamily": "Courier New",
+  "enabledCssSnippets": [
+    "clean-embeds",
+    "table-formats"
+  ]
 }

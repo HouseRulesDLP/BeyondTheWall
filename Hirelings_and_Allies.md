@@ -1,0 +1,5 @@
+# Hirelings
+
+# Allies
+
+# Morale

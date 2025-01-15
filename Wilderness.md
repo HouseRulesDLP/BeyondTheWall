@@ -1,0 +1,5 @@
+# Wilderness
+
+## Hunting
+
+## Foraging
