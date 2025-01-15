@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85a686e2ef266768",
+            "id": "a6efeb859d25865b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,18 +23,33 @@
             }
           },
           {
-            "id": "2476efebf416e3d8",
+            "id": "85a686e2ef266768",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Magic.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Magic"
+            }
+          },
+          {
+            "id": "0d5187e9f81c8ce4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classes/Mage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mage"
             }
           },
           {
@@ -44,7 +59,7 @@
               "type": "markdown",
               "state": {
                 "file": "Glossary.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -192,38 +207,35 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "2476efebf416e3d8",
+  "active": "85a686e2ef266768",
   "lastOpenFiles": [
-    "Rest_and_Recovery.md",
-    "Skills.md",
-    "Wilderness.md",
-    "Traits.md",
+    "classes/Mage.md",
+    "Magic.md",
+    "README.md",
     "Glossary.md",
+    "CoinAndItsUses.md",
+    "Wilderness.md",
+    "Rest_and_Recovery.md",
     "Reactions.md",
+    "classes/Warrior.md",
     "Lingering_Injury.md",
     "Languages.md",
     "Hirelings_and_Allies.md",
-    "DieSteps.md",
     "Countdown_Pools.md",
+    "DieSteps.md",
+    "classes/Warrior-Rogue.md",
+    "Traits.md",
     "Cosmic_Allegiance.md",
     "Conditions.md",
-    "CoinAndItsUses.md",
     "Battle_Maneuvers.md",
-    "classes/Warrior.md",
-    "classes/Warrior-Rogue.md",
+    "Skills.md",
     "classes/Warrior-Mage.md",
-    "README.md",
     "notes/Notes.md",
-    "classes/Mage.md",
     "classes/Rogue.md",
     "classes/Rogue-Mage.md",
-    "notes/Magic.md",
     "species/Dwarf.md",
     "species/Orc.md",
     "_css",

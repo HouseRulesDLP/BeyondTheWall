@@ -134,34 +134,41 @@ The equipment table prices in this chapter assume items of common quality.  High
 Not all items are equally available in all regions.  As a result, the GM is encouraged to multiply the cost of an item based on how common or rare it is.  The recommended range is the same as for Quality Modifiers above (x0.5 to x10).
 
 ## Haggling
-It is possible that your players may wish to haggle with local merchants over the cost of items (especially for those with quality or rarity modifiers).  This can be handled with a simple roll on the [Reaction Table](Reactions.md) modified by the bartering character’s Charisma Modifier.  Below are some suggestions on how to interpret the results:
+It is possible that your players may wish to haggle with local merchants over the cost of items (especially for those with quality or rarity modifiers).  This can be handled with an [opposed](Glossary.md#opposed%20check) Charisma+[Persuasion](Skills.md#persuasion) check.  The following table lists the potential outcomes of that check.
 
-<table border=2>
-	<tr style="background-color:#708090;">
-        <td style="vertical-align:bottom;">Reaction Check Result</td>
-        <td style="vertical-align:bottom;">Effect</td>
-    </tr>
-    <tr>
-        <td style="vertical-align:middle;">Hostile</td>
-        <td style="vertical-align:middle;">The merchant is insulted and throws the character out of their shop.  If they have any influence in the community, they may consider blacklisting the character with other merchants.</td>
-    </tr>
-	<tr style="background-color:#91a3b0;">
-        <td style="vertical-align:middle;">Unfriendly</td>
-        <td style="vertical-align:middle;">The merchant not only refuses to haggle, but increases the price by (1d4+1)x10%.</td>
-    </tr>
-    <tr>
-        <td style="vertical-align:middle;">Neutral</td>
-        <td style="vertical-align:middle;">The merchant is potentially willing to make a compromise deal, changing their price by (2d4-5)x5% {-15% to +15%}</td>
-    </tr>
-	<tr style="background-color:#91a3b0;">
-        <td style="vertical-align:middle;">Indifferent</td>
-        <td style="vertical-align:middle;">The merchant agrees to reduce their price by up to 30%.</td>
-    </tr>
-    <tr>
-        <td style="vertical-align:middle;">Friendly</td>
-        <td style="vertical-align:middle;">The character has won the merchant over to such a degree that they’re willing to offer a ‘friends and family’ discount, cutting their price by up to 50%.</td>
-    </tr>
-</table>
+<!-- directives:[] -->
+<div id="content">
+	<table border=2>
+		<thead>
+			<tr style="background-color:#708090;">
+				<th id="outcome" style="text-align:left;">Outcome</th>
+				<th id="result" style="text-align:left;">Result</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td style="text-align:left;">Fail by 8 or more</td>
+				<td style="text-align:left;"><strong>Hostility</strong>: The merchant is insulted and throws the character out of their shop.  If they have any influence in the community, they may consider blacklisting the character with other merchants (*Disadvantage* on any further bartering rolls in this location for the next week).</td>
+			</tr>
+			<tr style="background-color:#91a3b0;">
+				<td style="text-align:left;">Fail by 5 to 7</td>
+				<td style="text-align:left;"><strong>Refusal</strong>: The merchant not only refuses to haggle, but increases the price by (1d4+1)x10%.</td>
+			</tr>
+			<tr>
+				<td style="text-align:left;">Fail by 1 to 5</td>
+				<td style="text-align:left;"><strong>Negotiation</strong>: The merchant is potentially willing to make a compromise deal, changing their price by (2d4-5)x5% {-15% to +15%}</td>
+			</tr>
+			<tr style="background-color:#91a3b0;">
+				<td style="text-align:left;">Succeed by 0 to 2</td>
+				<td style="text-align:left;"><strong>Acceptance</strong>: The merchant agrees to reduce their price by up to 30%.</td>
+			</tr>
+			<tr>
+				<td style="text-align:left;">Succeed by 3+</td>
+				<td style="text-align:left;"><strong>Eager Acceptance</strong>: The character has won the merchant over to such a degree that they’re willing to offer a ‘friends and family’ discount, cutting their price by up to 50%.</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
 If the characters have no intent to haggle, simply forego any haggling rolls and use the price as listed (modified by quality and rarity as normal).
 

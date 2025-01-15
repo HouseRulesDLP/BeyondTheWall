@@ -37,8 +37,8 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
 4. **Cavalry:** While mounted, you gain +1 AC, +1 to hit and +2 damage.  Additionally, whatever creature you are mounted on gains +1 AC, +1 Reflex and +1 to its [Morale](Hirelings_and_Allies.md#morale).
 5. **Charger:** If you perform the [charge maneuver](Battle_Maneuvers.md#charge), add +2 to your damage rolls.
 6. **Cleave:** Immediately after one of your melee attacks drops a foe to 0 hit points, you may make another attack. If you have movement remaining, you may move between attacks.
-7. **Deadly Blow:** When making a melee attack, increase your weapon's damage die [1 step](Glossary.md#die%20steps).
-8. **Deadly Shot:**  When making a ranged attack, increase your weapon's damage die [1 step](Glossary.md#die%20steps).
+7. **Deadly Blow:** When making a melee attack, increase your weapon's damage die [1 step](DieSteps.md).
+8. **Deadly Shot:**  When making a ranged attack, increase your weapon's damage die [1 step](DieSteps.md).
 9. **Defensive Fighter:** as shown in the core rules
 10. **Exploit Weakness:** Increase your [Critical Hit](Glossary.md#critical%20hit) range by 1 (i.e. from 20 to 19).  This knack may be taken up to 3 times.
 11. **Fleet:** Gain +1 Initiative, +5 ft movement and +1 AC vs [Parting Shots](Combat.md#parting%20shots) so long as you are not wearing heavy armor.

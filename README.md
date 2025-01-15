@@ -17,18 +17,55 @@ See the documents for the [Dwarf](Dwarf.md), [Elf](Elf.md), [Goblin](Goblin.md),
 ### Always Roll High
 As given except that 12 is just the normal difficulty.  Checks will be against one of the difficulties given on Difficulty Table.
 
-|   Difficulty    | Target # |
-|:---------------:|:--------:|
-|    Very Easy    |    6+    |
-|      Easy       |    9+    |
-|    Moderate     |   12+    |
-|     Tricky      |   15+    |
-|      Hard       |   18+    |
-|    Very Hard    |   21+    |
-|     Heroic      |   24+    |
-|    Legendary    |   27+    |
-| Nigh Impossible |   30+    |
-
+<!-- directives:[] -->
+<div id="content">
+	<table border=2>
+		<thead>
+			<tr style="background-color:#708090;">
+				<th id="difficulty" style="text-align:center;">Difficulty</th>
+				<th id="target_#" style="text-align:center;">Target #</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td style="text-align:center;">Very Easy</td>
+				<td style="text-align:center;">6+</td>
+			</tr>
+			<tr style="background-color:#91a3b0;">
+				<td style="text-align:center;">Easy</td>
+				<td style="text-align:center;">9+</td>
+			</tr>
+			<tr>
+				<td style="text-align:center;">Moderate</td>
+				<td style="text-align:center;">12+</td>
+			</tr>
+			<tr style="background-color:#91a3b0;">
+				<td style="text-align:center;">Tricky</td>
+				<td style="text-align:center;">15+</td>
+			</tr>
+			<tr>
+				<td style="text-align:center;">Hard</td>
+				<td style="text-align:center;">18+</td>
+			</tr>
+			<tr style="background-color:#91a3b0;">
+				<td style="text-align:center;">Very Hard</td>
+				<td style="text-align:center;">21+</td>
+			</tr>
+			<tr>
+				<td style="text-align:center;">Heroic</td>
+				<td style="text-align:center;">24+</td>
+			</tr>
+			<tr style="background-color:#91a3b0;">
+				<td style="text-align:center;">Legendary</td>
+				<td style="text-align:center;">27+</td>
+			</tr>
+			<tr>
+				<td style="text-align:center;">Nigh Impossible</td>
+				<td style="text-align:center;">30+</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
 ### Combat Options
 
@@ -58,8 +95,15 @@ Some of these have been modified (see the [Traits](Traits.md) document).
 - Added the [Warrior-Rogue](Warrior-Rogue.md) class.
 - Added the [Warrior-Mage](Warrior-Mage.md) class.
 - Added the [Rogue-Mage](Rogue-Mage.md) class.
+- Added a list of broad [defined skills](Skills.md) to replace the free-form skill system.
+- Updated several existing [Traits](Traits.md) and added new ones.
+- Expanded the [Equipment](CoinAndItsUses.md) chart (especially [Weapons](CoinAndItsUses.md#Weapons) and [Armor](CoinAndItsUses.md#Armor)).
 - Added [Battle Maneuvers](Battle_Maneuvers.md) to the list of combat options.
 - Added [Critical Hits](Glossary.md#critical%20hit) to combat.
-- Added a list of broad [defined skills](Skills.md) to replace the freeform skill system.
-- Expanded the [Equipment](CoinAndItsUses.md) chart (especially [Weapons](CoinAndItsUses.md#Weapons) and [Armor](CoinAndItsUses.md#Armor)).
-- Updated several existing [Traits](Traits.md) and added new ones.
+- Added rules for [Lingering Injuries](Lingering_Injury.md).
+- Added NPC [reaction](Reactions.md) rules.
+- Magic
+	- To avoid the confusing multiple uses of the term "level", spells now have a "Rank" rather than a "Level".
+	- Spells must be cast using [Invocation Dice](Magic.md#the%20invocation%20roll).
+	- Unprepared spells may be [cast](Magic.md#casting%20unprepared%20spells) if the caster has their spell book handy.
+	- Casters may perform minor magical effects with [Cantrips](Magic.md#cantrips).

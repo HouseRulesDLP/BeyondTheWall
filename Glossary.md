@@ -1,5 +1,14 @@
 # Glossary
 
+## Caster Level
+For [Mages](classes/Mage.md), this is equal to their character level.  For [hybrid casters](#hybrid%20class), this is generally equal to half their character level, rounded down.  If a spell's effects are modified by level, this is the level used.
+
+## Combat Round
+All the Combat Turns of all participating creatures.  Approximately 10 seconds of time.
+
+## Combat Turn
+A specific individual's turn to act during a Combat Round.
+
 ## Concentration Check
 A check to maintain [Concentration](Conditions.md#concentration).  Usually a Constitution check.
 
@@ -17,6 +26,9 @@ d2 -> d3 -> d4 -> d5 -> d6 -> d8 -> d10 -> d12 -> d16 -> d20 -> d24 -> d30
 
 ## Fighting Withdrawal
 Moving out of melee combat while still maintaining your defense.  Splitting your concentration like this means you can only retreat at your normal move, not Run or Sprint.  See also [Parting Shot](#parting%20shot).
+
+## Hybrid Class
+A class that blends the features of two other classes: [Rogue-Mage](Rogue-Mage.md), [Warrior-Mage](Warrior-Mage.md) and [Warrior-Rogue](Warrior-Rogue.md).
 
 ## Mental Abilities
 Intelligence, Wisdom and Charisma
@@ -44,3 +56,6 @@ Charisma, Deception, Insight, Intimidation and Persuasion checks.
 
 ## Sprint
 Move at triple your normal movement, but suffer the same penalties as [Running](#run), and attacks against you have *Advantage*.
+
+## Time Steps
+1 reaction -> 1 action -> 1 combat turn -> 1 round -> 1 minute -> 1 exploration turn (10 minutes) -> 1 hour -> 1 watch (4 hours) -> 1 day -> 1 week -> 1 fortnight (2 weeks) -> 1 month -> 1 season (3 months) -> 1 year -> x2 years for each additional step

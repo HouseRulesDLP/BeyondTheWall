@@ -1,15 +1,11 @@
 # Die Steps
+Occasionally the rules will call for a die type to be stepped up or stepped down.  Use the table below to find the current die type and move left if the die type is being reduced or right if it's being increased.
 
-| Step* | Die Type |
-|:-----:|:--------:|
-| 0.5   | d3       |
-| 1.0   | d4       |
-| 1.5   | d5       |
-| 2.0   | d6       |
-| 3.0   | d8       |
-| 4.0   | d10      |
-| 5.0   | d12      |
-| 6.0   | d16 (d4 & d8) |
-| 7.0   | d20      |
-
-<sub>* - The half-steps (0.5 and 1.5) are optional steps and not normally used.  Likewise for steps 6 & 7.</sub>
+<table border=2>
+	<tr style="background-color:#708090;">
+		<td><b>Dice Progression</b></td>
+	</tr>
+	<tr>
+		<td>d2 => d3 => d4 => d5 => d6 => d8 => d10 => d12 => d16 => d20</td>
+	</tr>
+</table>
