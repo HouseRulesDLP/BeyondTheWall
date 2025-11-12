@@ -5,8 +5,9 @@ cssclasses:
 ---
 # Warrior-Mage
 - **HP at Level 1:** 6
-- **Hit Dice (Levels 2 to 10):** d6
+- **Additional HP (Levels 2 to 10):** d6
 - **HP for Levels 11+:** +1/level
+- **Hit Die:** d6
 - **Initiative Bonus:** +0
 - **Weapons:** Light and Medium
 - **Armor:** Light

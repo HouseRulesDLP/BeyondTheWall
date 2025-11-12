@@ -16,7 +16,7 @@ As given except that 12 is just the normal difficulty.  Checks will be against o
 | --------------- | :------: |
 | Very Easy       |    6+    |
 | Easy            |    9+    |
-| Moderage        |   12+    |
+| Moderate        |   12+    |
 | Tricky          |   15+    |
 | Hard            |   18+    |
 | Very Hard       |   21+    |
@@ -30,16 +30,17 @@ As given except that 12 is just the normal difficulty.  Checks will be against o
 These have been removed in favor of [Battle Maneuvers](Battle_Maneuvers.md).
 
 #### Fighting with Two Weapons
-Replace the rules in the book with the following:<br/>
-In order to wield 2 weapons, the weapon in the character’s primary hand must be a light or medium one-handed weapon, and the weapon in their off-hand must be a light one-handed weapon.
+Replace the rules in the book with the following:
+
+In order to wield 2 weapons, the weapon in the character’s primary hand must be a [light](CoinAndItsUses.md#Weight) or [medium](CoinAndItsUses.md#Weight) one-handed weapon, and the weapon in their off-hand must be a light one-handed weapon.
 
 A character wielding two weapons has the option of using their off-hand weapon offensively or defensively.  This choice is made at the beginning of the character’s turn.  If the weapon is being used offensively, the character gains a +1 to hit bonus and may choose to strike with either weapon (not both).  If the weapon is being used defensively, the character gains a +1 AC bonus and may only attack with their primary weapon.
 
-Under no circumstances is a character allowed to attack with both weapons at the same time.  However, if a character has multiple attacks per Combat Turn, then they may choose which weapon to strike with each time they make an attack.
+Under no circumstances is a character allowed to attack with both weapons at the same time.  However, if a character has multiple attacks per [Combat Turn](Glossary.md#Combat%20Turn), then they may choose which weapon to strike with each time they make an attack if wielding their off-hand weapon offensively (see above).
 
 See the [Off-Hand Proficiency](Traits.md#off-hand%20proficiency) trait for additional rules.
 
-### Multiclass Characters
+### Multi-class Characters
 See the documents for the [Warrior-Rogue](Warrior-Rogue.md), [Warrior-Mage](Warrior-Mage.md) and [Rogue-Mage](Rogue-Mage.md) classes.
 
 ### Character Traits
@@ -60,7 +61,7 @@ Some of these have been modified (see the [Traits](Traits.md) document).
 - Added rules for [Lingering Injuries](Lingering_Injury.md).
 - Added NPC [reaction](Reactions.md) rules.
 - Magic
-	- To avoid the confusing multiple uses of the term "level", spells now have a "Rank" rather than a "Level".
+	- To avoid the confusing multiple uses of the term "level", spells now have a "Tier" rather than a "Level".
 	- Spells must be cast using [Invocation Dice](Magic.md#the%20invocation%20roll).
 	- Unprepared spells may be [cast](Magic.md#casting%20unprepared%20spells) if the caster has their spell book handy.
 	- Casters may perform minor magical effects with [Cantrips](Magic.md#cantrips).

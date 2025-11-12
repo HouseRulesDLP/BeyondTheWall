@@ -1,16 +1,25 @@
 ---
 cssclasses:
   - btw
+  - clean-embeds
 ---
 # Mage
 - **HP at Level 1:** 4
-- **Hit Dice (Levels 2 to 10):** d4
+- **Additional Hit Points (Levels 2 to 10):** d4
 - **HP for Levels 11+:** +1/level
+- **Hit Die:** d4
 - **Initiative Bonus:** +0
 - **Weapons:** Light & Staff
 - **Armor:** Light
 
 # Table of Contents
+- [Starting Equipment](#Starting%20Equipment)
+- [Class Abilities](#Class%20Abilities)
+	- [Spellcasting Focus](#Spellcasting%20Focus)
+	- [Sense Magic](#Sense%20Magic)
+	- [Spell Casting](#Spell%20Casting)
+	- [True Name](#True%20Name)
+- [Updated Mage Table](#Updated%20Mage%20Table)
 
 ## Starting Equipment
 - an [Adventurer's Pack](CoinAndItsUses.md#equipment%20packs)
@@ -21,20 +30,15 @@ cssclasses:
 As given in the core rules plus the following:
 
 ### Spellcasting Focus
-As part of your apprenticeship, you created a device to aid in casting spells. This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held. It also takes up 1 Inventory Slot. Your focus may be replaced by constructing a new one which takes 1 week in a [Safe Haven](Rest_and_Recovery.md#Safe%20Haven) and 100sp worth of materials.
-
-At each level, you may add a sigil into your focus. Each sigil represents a specific spell you have learned (i.e. recorded in your Spellbook). Whenever you cast one of these spells, while holding your Spellcasting Focus, you rolls d8s for your Invocation Dice instead of d6s. It takes 1 Day times the spell's Tier and 50sp per Day to add a new sigil into your focus.
-
-Having a Spellcasting Focus in hand does not count against needing a free hand for spell casting.
-
+![](ClassAbilities.md#Magical%20Focus)
 ### Sense Magic
-Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a Intelligent [Perception](Skills.md#perception) check. Doing so requires [concentration](Conditions.md#concentrating) and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them. You can also attempt to decipher magical writing in the same way.
+![](ClassAbilities.md#Sense%20Magic)
 
 ### Spell Casting 
-Spell casting works very different than in the core rules.  Each mage gains a number of [Invocation Dice](Magic.md#The%20Invocation%20Dice%20Pool) equal to their level plus their Wisdom Modifier.  These dice are used in casting spells.  Spells must be [prepared](Magic.md#Preparing%20Spells) before they are cast.  A mage may not prepare more than the number of spells shown on the table below.  See the [Magic](Magic.md) document for further details.
+![](ClassAbilities.md#Spell%20Casting)
 
 ### True Name
-As a magic-user possessing supernatural power, you have a [True Name](Glossary.md#True%20Name). Those who know your True Name can use it against you. By calling out your True Name, a creature gains [Advantage](Glossary.md#Advantage) on all actions taken against you, including attacks. They also gain *Advantage* on any saving throws to resist your spells or other supernatural abilities.
+![](ClassAbilities.md#True%20Name)
 
 ## Updated Mage Table
 <table class="btw">
