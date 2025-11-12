@@ -3,64 +3,65 @@ cssclasses:
   - btw
   - clean-embeds
 ---
-# Rogue
+# Rogue-Warrior
 - **HP at Level 1:** 6
-- **Hit Dice (Levels 2 to 10):** d6
-- **HP for Levels 11+:** +1/level
-- **Initiative Bonus:** +2
-- **Weapons:** Light and Medium
-- **Armor:** Light and Medium plus Bucklers
+- **Hit Dice (for Levels 2 to 10):** d6 (odd), d8 (even)
+- **HP for Levels 11+:** +1 (odd), +2 (even)
+- **Initiative Bonus:** +1
+- **Weapons:** Any
+- **Armor:** Light, Medium, Bucklers and Shields
 
 # Table of Contents
-- [Starting Equipment](#starting-equipment)
-- [Class Abilities](#class-abilities)
-	- [Sneak Attack](#sneak-attack)
-	- [Knacks](#knacks)
-- [Updated Rogue Table](#updated-rogue-table)
 
 ## Starting Equipment
 - an [Adventurer's Pack](CoinAndItsUses.md#equipment%20packs)
-- a [Rogue's Pack](CoinAndItsUses.md#equipment%20packs)
-- 3d4x10sp
+- a [Skirmisher's Pack](CoinAndItsUses.md#equipment%20packs)
+- 2d6 sp
 
 ## Class Abilities
+
 ### Fortune's Favor
-Rogues add 2 extra Fortune Point to both their Base and Max fortune point limits.
+![](ClassAbilities.md#Fortune's%20Favor,%20Lesser)
 
 ### Highly Skilled
-You receive two additional skill picks at first level.  You gain an additional skill pick every odd-numbered level thereafter.  Instead of gaining a new skill, you may get better at one you already have, increasing your [Rank](Skills.md#Skill%20Ranks) in that skill.
+![](ClassAbilities.md#Highly%20Skilled,%20Lesser)
 
 ### Sneak Attack
-When you have Advantage on an attack, add the damage from the the table below to the damage of the attack.
+![](ClassAbilities.md#Sneak%20Attack)
 
 ### Knacks
-Like Warriors, Rogues have a list of knacks that they may learn as they increase in levels.  Each knack may only be chosen once unless specified otherwise.
-1. ![](Knacks.md#Assassin)
-2. ![](Knacks.md#Blackjack)
-3. ![](Knacks.md#Code%20Breaker)
-4. ![](Knacks.md#Deft%20Fingers)
-5. ![](Knacks.md#Distracting%20Defense)
-6. ![](Knacks.md#Intelligent%20Defense)
-7. ![](Knacks.md#Light%20Footed)
-8. ![](Knacks.md#Master%20of%20Disguise)
-9. ![](Knacks.md#Poisoner)
-10. ![](Knacks.md#Second%20Story%20Work)
-11. ![](Knacks.md#Skulker)
-12. ![](Knacks.md#Watchful)
+Each knack may only be chosen once unless specified otherwise.
+1. ![](Knacks.md#Archer)
+2. ![](Knacks.md#Assassin)
+3. ![](Knacks.md#Blackjack)
+4. ![](Knacks.md#Code%20Breaker)
+5. ![](Knacks.md#Defensive%20Fighter)
+6. ![](Knacks.md#Deft%20Fingers)
+7. ![](Knacks.md#Distracting%20Defense)
+8. ![](Knacks.md#Intelligent%20Defense)
+9. ![](Knacks.md#Master%20of%20Disguise)
+10. ![](Knacks.md#Mighty%20Shot)
+11. ![](Knacks.md#Light%20Footed)
+12. ![](Knacks.md#Poisoner)
+13. ![](Knacks.md#Precise%20Shot)
+14. ![](Knacks.md#Second%20Story%20Work)
+15. ![](Knacks.md#Skulker)
+16. ![](Knacks.md#Watchful)
 
-## Updated Rogue Table
-<table class="btw">
+
+## Warrior-Rogue Table
+<table>
     <thead>
         <tr>
             <th rowspan="2">Level</th>
-            <th rowspan="2" class="right-align">Experience</th>
+            <th rowspan="2">Experience</th>
             <th rowspan="2">Hit<br/>Dice*</th>
             <th rowspan="2">Attack<br/>Bonus</th>
             <th rowspan="2">Skills</th>
             <th rowspan="2">Traits</th>
             <th rowspan="2">Knacks</th>
             <th colspan="5">Saving Throws</th>
-            <th rowspan="2" class="left-align">Special</th>
+            <th rowspan="2">Special</th>
         </tr>
         <tr>
             <th>Doom</th>
@@ -76,7 +77,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td class="right-align">0</td>
             <td>1d6</td>
             <td>+0</td>
-            <td>4</td>
+            <td>3</td>
             <td>0</td>
             <td>1</td>
             <td>13+</td>
@@ -88,10 +89,10 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
         </tr>
         <tr>
             <td>2</td>
-            <td class="right-align">1,500</td>
-            <td>2d6</td>
+            <td class="right-align">1,700</td>
+            <td>1d6 + 1d8</td>
             <td>+1</td>
-            <td>4</td>
+            <td>3</td>
             <td>1</td>
             <td>1</td>
             <td>13+</td>
@@ -103,10 +104,10 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
         </tr>
         <tr>
             <td>3</td>
-            <td class="right-align">3,000</td>
-            <td>3d6</td>
+            <td class="right-align">3,300</td>
+            <td>2d6 + 1d8</td>
             <td>+1</td>
-            <td>5</td>
+            <td>4</td>
             <td>1</td>
             <td>1</td>
             <td>12+</td>
@@ -118,14 +119,14 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
         </tr>
         <tr>
             <td>4</td>
-            <td class="right-align">6,000</td>
-            <td>4d6</td>
+            <td class="right-align">6,700</td>
+            <td>2d6 + 2d8</td>
             <td>+2</td>
-            <td>5</td>
+            <td>4</td>
             <td>1</td>
             <td>2</td>
+            <td>11+</td>
             <td>12+</td>
-            <td>13+</td>
             <td>12+</td>
             <td>14+</td>
             <td>14+</td>
@@ -133,10 +134,10 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
         </tr>
         <tr>
             <td>5</td>
-            <td class="right-align">12,000</td>
-            <td>5d6</td>
-            <td>+2</td>
-            <td>6</td>
+            <td class="right-align">13,000</td>
+            <td>3d6 + 2d8</td>
+            <td>+3</td>
+            <td>5</td>
             <td>2</td>
             <td>2</td>
             <td>11+</td>
@@ -148,44 +149,44 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
         </tr>
         <tr>
             <td>6</td>
-            <td class="right-align">24,000</td>
-            <td>6d6</td>
+            <td class="right-align">27,000</td>
+            <td>3d6 + 3d8</td>
             <td>+3</td>
+            <td>5</td>
+            <td>2</td>
+            <td>2</td>
+            <td>10+</td>
+            <td>11+</td>
+            <td>11+</td>
+            <td>13+</td>
+            <td>13+</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td class="right-align">53,000</td>
+            <td>4d6 + 3d8</td>
+            <td>+4</td>
             <td>6</td>
             <td>2</td>
-            <td>2</td>
-            <td>11+</td>
+            <td>3</td>
+            <td>9+</td>
+            <td>10+</td>
+            <td>10+</td>
             <td>12+</td>
-            <td>11+</td>
-            <td>13+</td>
-            <td>13+</td>
+            <td>12+</td>
             <td class="left-align">Sneak Attack +2d4</td>
         </tr>
         <tr>
-            <td>7</td>
-            <td class="right-align">48,000</td>
-            <td>7d6</td>
-            <td>+3</td>
-            <td>7</td>
-            <td>2</td>
-            <td>3</td>
-            <td>10+</td>
-            <td>11+</td>
-            <td>10+</td>
-            <td>12+</td>
-            <td>12+</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>8</td>
-            <td class="right-align">96,000</td>
-            <td>8d6</td>
-            <td>+4</td>
-            <td>7</td>
+            <td class="right-align">110,000</td>
+            <td>4d6 + 4d8</td>
+            <td>+5</td>
+            <td>6</td>
             <td>3</td>
             <td>3</td>
+            <td>9+</td>
             <td>10+</td>
-            <td>11+</td>
             <td>10+</td>
             <td>12+</td>
             <td>12+</td>
@@ -193,14 +194,14 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
         </tr>
         <tr>
             <td>9</td>
-            <td class="right-align">190,000</td>
-            <td>9d6</td>
-            <td>+4</td>
-            <td>8</td>
+            <td class="right-align">220,000</td>
+            <td>5d6 + 4d8</td>
+            <td>+5</td>
+            <td>7</td>
             <td>3</td>
-            <td>3</td>
+            <td>4</td>
+            <td>8+</td>
             <td>9+</td>
-            <td>10+</td>
             <td>9+</td>
             <td>11+</td>
             <td>11+</td>
@@ -208,29 +209,29 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
         </tr>
         <tr>
             <td>10</td>
-            <td class="right-align">290,000</td>
-            <td>10d6</td>
-            <td>+5</td>
-            <td>8</td>
+            <td class="right-align">330,000</td>
+            <td>5d6 + 5d8</td>
+            <td>+6</td>
+            <td>7</td>
             <td>3</td>
-            <td>4</td>
-            <td>9+</td>
-            <td>10+</td>
-            <td>9+</td>
-            <td>11+</td>
-            <td>11+</td>
-            <td class="left-align">Sneak Attack +3d4</td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td class="right-align">390,000</td>
-            <td>10d6+1</td>
-            <td>+5</td>
-            <td>9</td>
-            <td>4</td>
             <td>4</td>
             <td>8+</td>
             <td>9+</td>
+            <td>9+</td>
+            <td>10+</td>
+            <td>11+</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td class="right-align">440,000</td>
+            <td>5d6 + 5d8+1</td>
+            <td>+6</td>
+            <td>8</td>
+            <td>4</td>
+            <td>5</td>
+            <td>7+</td>
+            <td>8+</td>
             <td>8+</td>
             <td>10+</td>
             <td>10+</td>
@@ -238,61 +239,61 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
         </tr>
         <tr>
             <td>12</td>
-            <td class="right-align">490,000</td>
-            <td>10d6+2</td>
-            <td>+6</td>
-            <td>9</td>
-            <td>4</td>
-            <td>4</td>
-            <td>8+</td>
-            <td>9+</td>
-            <td>8+</td>
-            <td>10+</td>
-            <td>10+</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td class="right-align">590,000</td>
-            <td>10d6+3</td>
-            <td>+6</td>
-            <td>10</td>
+            <td class="right-align">550,000</td>
+            <td>5d6 + 5d8+3</td>
+            <td>+7</td>
+            <td>8</td>
             <td>4</td>
             <td>5</td>
             <td>7+</td>
             <td>8+</td>
-            <td>7+</td>
+            <td>8+</td>
             <td>9+</td>
+            <td>10+</td>
+            <td class="left-align">Sneak Attack +3d4</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td class="right-align">660,000</td>
+            <td>5d6 + 5d8+4</td>
+            <td>+7</td>
+            <td>9</td>
+            <td>4</td>
+            <td>6</td>
+            <td>6+</td>
+            <td>7+</td>
+            <td>7+</td>
+            <td>8+</td>
             <td>9+</td>
             <td></td>
         </tr>
         <tr>
             <td>14</td>
-            <td class="right-align">690,000</td>
-            <td>10d6+4</td>
-            <td>+7</td>
-            <td>10</td>
+            <td class="right-align">770,000</td>
+            <td>5d6 + 5d8+6</td>
+            <td>+8</td>
+            <td>9</td>
             <td>5</td>
-            <td>5</td>
+            <td>6</td>
+            <td>6+</td>
+            <td>7+</td>
             <td>7+</td>
             <td>8+</td>
-            <td>7+</td>
             <td>9+</td>
-            <td>9+</td>
-            <td class="left-align">Sneak Attack +4d4</td>
+            <td></td>
         </tr>
         <tr>
             <td>15</td>
-            <td class="right-align">790,000</td>
-            <td>10d6+5</td>
-            <td>+7</td>
-            <td>11</td>
+            <td class="right-align">880,000</td>
+            <td>5d6 + 5d8+7</td>
+            <td>+8</td>
+            <td>9</td>
             <td>5</td>
-            <td>5</td>
+            <td>6</td>
+            <td>5+</td>
+            <td>6+</td>
             <td>6+</td>
             <td>7+</td>
-            <td>6+</td>
-            <td>8+</td>
             <td>8+</td>
             <td></td>
         </tr>

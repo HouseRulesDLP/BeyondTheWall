@@ -1,9 +1,10 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "textFontFamily": "Courier New",
   "monospaceFontFamily": "Courier New",
   "enabledCssSnippets": [
     "clean-embeds",
     "table-formats"
-  ]
+  ],
+  "cssTheme": "Material Gruvbox"
 }

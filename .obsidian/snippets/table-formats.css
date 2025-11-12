@@ -1,8 +1,71 @@
-.table {
-    .header {
-        background-color: #616a6b;
-        .cell {
-            vertical-align: bottom;
-        }
-    }
+/* ------ */
+/* Tables */
+/* ------ */
+.btw table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-bottom: solid 2px black;
+    text-align: center;
 }
+.btw table thead th {
+    font-family: 'Soutane Black';
+    font-weight: strong;
+    font-size: 1.1em;
+    padding-left: 1em;
+    border-bottom: solid 1px black !important;
+    vertical-align: bottom;
+    min-width: 3.44em;
+    background-color: lightgrey !important;
+    text-align: center;
+}
+.btw table td {
+    min-width: 3.44em;
+    font-size: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.1em;
+    vertical-align: top;
+    border: solid 1px grey !important;
+    text-align: center;
+}
+.btw table th.right-align,
+.btw table td.right-align {
+    text-align: right !important;
+}
+.btw table th.left-align,
+.btw table td.left-align {
+    text-align: left !important;
+}
+.btw table td.sub-header {
+    padding-left: 0.3em;
+    font-weight: bold;
+    border-top: solid 2px grey !important;
+    border-bottom: solid 1px grey !important;
+}
+.btw table td.sub-header-left {
+    padding-left: 0.3em;
+    text-align: left;
+    font-weight: bold;
+    border-top: solid 2px grey !important;
+    border-bottom: solid 1px grey !important;
+}
+.btw table tr:nth-child(odd) {
+    background-color: #F5F4F2 !important;
+}
+.btw table tbody tr:hover td {
+    background-color: lightblue;
+}
+.btw table tfoot td {
+    text-align: left !important;
+    background-color: lightgrey;
+}
+.btw-diagram table {
+    border: solid 1px black;
+}
+.btw-diagram td {
+    width: 3em;
+    height: 3em;
+    border: solid 1px black;
+    text-align: center;
+    vertical-align: center;
+}
+/* ------ */

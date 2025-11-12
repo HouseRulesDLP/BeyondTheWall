@@ -4,68 +4,25 @@ My house rules for Beyond the Wall and Other Adventures
 ## Optional Rules
 We will be using the following rules from Through Sunken Lands (pg 47).
 
-### Simplified Saving Throws
-The class tables have been updated to reflect the use of these saving throws.<br/>
-These values are further modified by the character's Ability Score Modifiers.
-- **Fortitude:** use the highest of Strength or Constitution.
-- **Reflex:** use the highest of Dexterity or Intelligence.
-- **Will:** use the highest of Wisdom or Charisma
-
 ### Fantastic Creatures
 See the documents for the [Dwarf](Dwarf.md), [Elf](Elf.md), [Goblin](Goblin.md), [Hob](Hob.md), [Human](Human.md) and [Orc](Orc.md) species.
 
 ### Always Roll High
 As given except that 12 is just the normal difficulty.  Checks will be against one of the difficulties given on Difficulty Table.
 
-<!-- directives:[] -->
-<div id="content">
-	<table border=2>
-		<thead>
-			<tr style="background-color:#708090;">
-				<th id="difficulty" style="text-align:center;">Difficulty</th>
-				<th id="target_#" style="text-align:center;">Target #</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td style="text-align:center;">Very Easy</td>
-				<td style="text-align:center;">6+</td>
-			</tr>
-			<tr style="background-color:#91a3b0;">
-				<td style="text-align:center;">Easy</td>
-				<td style="text-align:center;">9+</td>
-			</tr>
-			<tr>
-				<td style="text-align:center;">Moderate</td>
-				<td style="text-align:center;">12+</td>
-			</tr>
-			<tr style="background-color:#91a3b0;">
-				<td style="text-align:center;">Tricky</td>
-				<td style="text-align:center;">15+</td>
-			</tr>
-			<tr>
-				<td style="text-align:center;">Hard</td>
-				<td style="text-align:center;">18+</td>
-			</tr>
-			<tr style="background-color:#91a3b0;">
-				<td style="text-align:center;">Very Hard</td>
-				<td style="text-align:center;">21+</td>
-			</tr>
-			<tr>
-				<td style="text-align:center;">Heroic</td>
-				<td style="text-align:center;">24+</td>
-			</tr>
-			<tr style="background-color:#91a3b0;">
-				<td style="text-align:center;">Legendary</td>
-				<td style="text-align:center;">27+</td>
-			</tr>
-			<tr>
-				<td style="text-align:center;">Nigh Impossible</td>
-				<td style="text-align:center;">30+</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
+#### Task Difficulty
+
+| Difficulty      | Target # |
+| --------------- | :------: |
+| Very Easy       |    6+    |
+| Easy            |    9+    |
+| Moderage        |   12+    |
+| Tricky          |   15+    |
+| Hard            |   18+    |
+| Very Hard       |   21+    |
+| Heroic          |   24+    |
+| Legendary       |   27+    |
+| Nigh Impossible |   30+    |
 
 ### Combat Options
 
@@ -107,3 +64,13 @@ Some of these have been modified (see the [Traits](Traits.md) document).
 	- Spells must be cast using [Invocation Dice](Magic.md#the%20invocation%20roll).
 	- Unprepared spells may be [cast](Magic.md#casting%20unprepared%20spells) if the caster has their spell book handy.
 	- Casters may perform minor magical effects with [Cantrips](Magic.md#cantrips).
+
+### Natural Roll
+Occasionally, the rules will reference a Natural Roll. This is the die face that is showing after the roll, without applying any modifiers. *For example, if a warrior with a +3 attack bonus rolls a 12 on the die, their total result is 12+3 = 15. Their **Natural** result is just 12.*
+
+### Advantage & Disadvantage
+**Advantage:** When rolling the dice, roll twice and take the _better_ result.
+
+**Disadvantage:** When rolling the dice, roll twice and take the _worse_ result..
+
+If a check has both **Advantage** and **Disadvantage** count up the number of each. If there are more **Advantages**, the roll is made at **Advantage**. If there are more **Disadvantages**, the roll is made at **Disadvantage**. If they are equal, the roll is made normally.
