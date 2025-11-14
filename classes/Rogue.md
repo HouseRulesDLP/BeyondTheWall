@@ -5,18 +5,14 @@ cssclasses:
 ---
 # Rogue
 - **HP at Level 1:** 6
-- **Hit Dice (Levels 2 to 10):** d6
+- **HP for Levels 2 to 10:** d6
 - **HP for Levels 11+:** +1/level
+- **Hit Die:** 1d6
 - **Initiative Bonus:** +2
 - **Weapons:** Light and Medium
 - **Armor:** Light and Medium plus Bucklers
 
 # Table of Contents
-- [Starting Equipment](#starting-equipment)
-- [Class Abilities](#class-abilities)
-	- [Sneak Attack](#sneak-attack)
-	- [Knacks](#knacks)
-- [Updated Rogue Table](#updated-rogue-table)
 
 ## Starting Equipment
 - an [Adventurer's Pack](CoinAndItsUses.md#equipment%20packs)
@@ -25,14 +21,11 @@ cssclasses:
 
 ## Class Abilities
 ### Fortune's Favor
-Rogues add 2 extra Fortune Point to both their Base and Max fortune point limits.
-
+![](ClassAbilities.md#Fortune's%20Favor)
 ### Highly Skilled
-You receive two additional skill picks at first level.  You gain an additional skill pick every odd-numbered level thereafter.  Instead of gaining a new skill, you may get better at one you already have, increasing your [Rank](Skills.md#Skill%20Ranks) in that skill.
-
+![](ClassAbilities.md#Highly%20Skilled)
 ### Sneak Attack
-When you have Advantage on an attack, add the damage from the the table below to the damage of the attack.
-
+![](ClassAbilities.md#Sneak%20Attack)
 ### Knacks
 Like Warriors, Rogues have a list of knacks that they may learn as they increase in levels.  Each knack may only be chosen once unless specified otherwise.
 1. ![](Knacks.md#Assassin)
@@ -49,7 +42,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
 12. ![](Knacks.md#Watchful)
 
 ## Updated Rogue Table
-<table class="btw">
+<table>
     <thead>
         <tr>
             <th rowspan="2">Level</th>
@@ -60,7 +53,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <th rowspan="2">Traits</th>
             <th rowspan="2">Knacks</th>
             <th colspan="5">Saving Throws</th>
-            <th rowspan="2" class="left-align">Special</th>
+            <th rowspan="2">Sneak<br/>Attack</th>
         </tr>
         <tr>
             <th>Doom</th>
@@ -84,7 +77,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>13+</td>
             <td>15+</td>
             <td>15+</td>
-            <td class="left-align">Fortune’s Favor</td>
+            <td>--</td>
         </tr>
         <tr>
             <td>2</td>
@@ -99,7 +92,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>13+</td>
             <td>15+</td>
             <td>15+</td>
-            <td class="left-align">Sneak Attack +1d4</td>
+            <td>+1d4</td>
         </tr>
         <tr>
             <td>3</td>
@@ -114,7 +107,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>12+</td>
             <td>14+</td>
             <td>14+</td>
-            <td></td>
+            <td>+1d4</td>
         </tr>
         <tr>
             <td>4</td>
@@ -129,7 +122,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>12+</td>
             <td>14+</td>
             <td>14+</td>
-            <td></td>
+            <td>+1d4</td>
         </tr>
         <tr>
             <td>5</td>
@@ -144,7 +137,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>11+</td>
             <td>13+</td>
             <td>13+</td>
-            <td></td>
+            <td>+1d4</td>
         </tr>
         <tr>
             <td>6</td>
@@ -159,7 +152,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>11+</td>
             <td>13+</td>
             <td>13+</td>
-            <td class="left-align">Sneak Attack +2d4</td>
+            <td>+2d4</td>
         </tr>
         <tr>
             <td>7</td>
@@ -174,7 +167,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>10+</td>
             <td>12+</td>
             <td>12+</td>
-            <td></td>
+            <td>+2d4</td>
         </tr>
         <tr>
             <td>8</td>
@@ -189,7 +182,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>10+</td>
             <td>12+</td>
             <td>12+</td>
-            <td></td>
+            <td>+2d4</td>
         </tr>
         <tr>
             <td>9</td>
@@ -204,7 +197,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>9+</td>
             <td>11+</td>
             <td>11+</td>
-            <td></td>
+            <td>+2d4</td>
         </tr>
         <tr>
             <td>10</td>
@@ -219,7 +212,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>9+</td>
             <td>11+</td>
             <td>11+</td>
-            <td class="left-align">Sneak Attack +3d4</td>
+            <td>+3d4</td>
         </tr>
         <tr>
             <td>11</td>
@@ -234,7 +227,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>8+</td>
             <td>10+</td>
             <td>10+</td>
-            <td></td>
+            <td>+3d4</td>
         </tr>
         <tr>
             <td>12</td>
@@ -249,7 +242,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>8+</td>
             <td>10+</td>
             <td>10+</td>
-            <td></td>
+            <td>+3d4</td>
         </tr>
         <tr>
             <td>13</td>
@@ -264,7 +257,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>7+</td>
             <td>9+</td>
             <td>9+</td>
-            <td></td>
+            <td>+3d4</td>
         </tr>
         <tr>
             <td>14</td>
@@ -279,7 +272,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>7+</td>
             <td>9+</td>
             <td>9+</td>
-            <td class="left-align">Sneak Attack +4d4</td>
+            <td>+4d4</td>
         </tr>
         <tr>
             <td>15</td>
@@ -294,12 +287,12 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>6+</td>
             <td>8+</td>
             <td>8+</td>
-            <td></td>
+            <td>+4d4</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
             <td colspan="13">* CON modifiers no longer apply after level 10.</td>
         </tr>
-	</tfoot>
+    </tfoot>
 </table>

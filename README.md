@@ -75,3 +75,6 @@ Occasionally, the rules will reference a Natural Roll. This is the die face that
 **Disadvantage:** When rolling the dice, roll twice and take the _worse_ result..
 
 If a check has both **Advantage** and **Disadvantage** count up the number of each. If there are more **Advantages**, the roll is made at **Advantage**. If there are more **Disadvantages**, the roll is made at **Disadvantage**. If they are equal, the roll is made normally.
+
+### D20 Check Notation
+Throughout these house rules, there are calls for several types of [D20 Check](Glossary.md#D20%20Check).  These will be in the format of *check type* (*modifier*).  *check type* will indicate whether this is a Saving Throw, Ability Check, Skill Check and so on.  The *modifier* is option and will indicate which Ability Score Modifier to add to the roll.  *For example, **Hold Save (CON)** would indicate that a Hold Saving Throw must be made, modified by the creatures' Constitution Modifier.*

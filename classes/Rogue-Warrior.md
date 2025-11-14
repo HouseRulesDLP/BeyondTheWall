@@ -5,8 +5,9 @@ cssclasses:
 ---
 # Rogue-Warrior
 - **HP at Level 1:** 6
-- **Hit Dice (for Levels 2 to 10):** d6 (odd), d8 (even)
+- **HP for Levels 2 to 10:** d6 (odd), d8 (even)
 - **HP for Levels 11+:** +1 (odd), +2 (even)
+- **Hit Die:** d6
 - **Initiative Bonus:** +1
 - **Weapons:** Any
 - **Armor:** Light, Medium, Bucklers and Shields
@@ -19,16 +20,12 @@ cssclasses:
 - 2d6 sp
 
 ## Class Abilities
-
 ### Fortune's Favor
 ![](ClassAbilities.md#Fortune's%20Favor,%20Lesser)
-
 ### Highly Skilled
 ![](ClassAbilities.md#Highly%20Skilled,%20Lesser)
-
 ### Sneak Attack
 ![](ClassAbilities.md#Sneak%20Attack)
-
 ### Knacks
 Each knack may only be chosen once unless specified otherwise.
 1. ![](Knacks.md#Archer)
@@ -40,13 +37,12 @@ Each knack may only be chosen once unless specified otherwise.
 7. ![](Knacks.md#Distracting%20Defense)
 8. ![](Knacks.md#Intelligent%20Defense)
 9. ![](Knacks.md#Master%20of%20Disguise)
-10. ![](Knacks.md#Mighty%20Shot)
-11. ![](Knacks.md#Light%20Footed)
-12. ![](Knacks.md#Poisoner)
-13. ![](Knacks.md#Precise%20Shot)
-14. ![](Knacks.md#Second%20Story%20Work)
-15. ![](Knacks.md#Skulker)
-16. ![](Knacks.md#Watchful)
+10. ![](Knacks.md#Light%20Footed)
+11. ![](Knacks.md#Poisoner)
+12. ![](Knacks.md#Precise%20Shot)
+13. ![](Knacks.md#Second%20Story%20Work)
+14. ![](Knacks.md#Skulker)
+15. ![](Knacks.md#Watchful)
 
 
 ## Warrior-Rogue Table
@@ -54,14 +50,14 @@ Each knack may only be chosen once unless specified otherwise.
     <thead>
         <tr>
             <th rowspan="2">Level</th>
-            <th rowspan="2">Experience</th>
+            <th rowspan="2" class="right-align">Experience</th>
             <th rowspan="2">Hit<br/>Dice*</th>
             <th rowspan="2">Attack<br/>Bonus</th>
             <th rowspan="2">Skills</th>
             <th rowspan="2">Traits</th>
             <th rowspan="2">Knacks</th>
             <th colspan="5">Saving Throws</th>
-            <th rowspan="2">Special</th>
+            <th rowspan="2">Sneak<br/>Attack</th>
         </tr>
         <tr>
             <th>Doom</th>
@@ -85,7 +81,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>13+</td>
             <td>15+</td>
             <td>15+</td>
-            <td class="left-align">Fortune’s Favor</td>
+            <td>--</td>
         </tr>
         <tr>
             <td>2</td>
@@ -100,7 +96,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>13+</td>
             <td>15+</td>
             <td>15+</td>
-            <td class="left-align">Sneak Attack +1d4</td>
+            <td>--</td>
         </tr>
         <tr>
             <td>3</td>
@@ -115,7 +111,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>12+</td>
             <td>14+</td>
             <td>14+</td>
-            <td></td>
+            <td>+1d4</td>
         </tr>
         <tr>
             <td>4</td>
@@ -130,7 +126,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>12+</td>
             <td>14+</td>
             <td>14+</td>
-            <td></td>
+            <td>+1d4</td>
         </tr>
         <tr>
             <td>5</td>
@@ -145,7 +141,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>11+</td>
             <td>13+</td>
             <td>13+</td>
-            <td></td>
+            <td>+1d4</td>
         </tr>
         <tr>
             <td>6</td>
@@ -160,7 +156,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>11+</td>
             <td>13+</td>
             <td>13+</td>
-            <td></td>
+            <td>+1d4</td>
         </tr>
         <tr>
             <td>7</td>
@@ -175,7 +171,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>10+</td>
             <td>12+</td>
             <td>12+</td>
-            <td class="left-align">Sneak Attack +2d4</td>
+            <td>+1d4</td>
         </tr>
         <tr>
             <td>8</td>
@@ -190,7 +186,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>10+</td>
             <td>12+</td>
             <td>12+</td>
-            <td></td>
+            <td>+1d4</td>
         </tr>
         <tr>
             <td>9</td>
@@ -205,7 +201,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>9+</td>
             <td>11+</td>
             <td>11+</td>
-            <td></td>
+            <td>+2d4</td>
         </tr>
         <tr>
             <td>10</td>
@@ -220,7 +216,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>9+</td>
             <td>10+</td>
             <td>11+</td>
-            <td></td>
+            <td>+2d4</td>
         </tr>
         <tr>
             <td>11</td>
@@ -235,7 +231,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>8+</td>
             <td>10+</td>
             <td>10+</td>
-            <td></td>
+            <td>+2d4</td>
         </tr>
         <tr>
             <td>12</td>
@@ -250,7 +246,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>8+</td>
             <td>9+</td>
             <td>10+</td>
-            <td class="left-align">Sneak Attack +3d4</td>
+            <td>+2d4</td>
         </tr>
         <tr>
             <td>13</td>
@@ -265,7 +261,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>7+</td>
             <td>8+</td>
             <td>9+</td>
-            <td></td>
+            <td>+2d4</td>
         </tr>
         <tr>
             <td>14</td>
@@ -280,7 +276,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>7+</td>
             <td>8+</td>
             <td>9+</td>
-            <td></td>
+            <td>+2d4</td>
         </tr>
         <tr>
             <td>15</td>
@@ -295,12 +291,12 @@ Each knack may only be chosen once unless specified otherwise.
             <td>6+</td>
             <td>7+</td>
             <td>8+</td>
-            <td></td>
+            <td>+3d4</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
             <td colspan="13">* CON modifiers no longer apply after level 10.</td>
         </tr>
-	</tfoot>
+    </tfoot>
 </table>

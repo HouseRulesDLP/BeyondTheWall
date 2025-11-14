@@ -51,6 +51,9 @@ Any check that involves rolling a D20 plus modifiers and comparing the total to 
 ## Damage Immunity
 If a target is immune to the type of damage being done, it takes 0 damage.
 
+## Damage Reduction
+Damage is reduced by an amount equal to the Damage Reduction value (i.e. Damage Reduction (2) reduces damage by 2 points).  Damage cannot be reduced below 0 in this way.  Damage Reduction may be tagged with a damage type (fire, lightning, piercing, etc.), indicating that it only applies to damage of that type.
+
 ## Damage Resistance
 If a target is resistant to the type of damage being done, it takes only half the damage (rounded down), but still takes a minimum of 1.
 

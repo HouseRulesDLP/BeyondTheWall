@@ -5,7 +5,7 @@ cssclasses:
 ---
 # Mage
 - **HP at Level 1:** 4
-- **Additional Hit Points (Levels 2 to 10):** d4
+- **HP for Levels 2 to 10:** d4
 - **HP for Levels 11+:** +1/level
 - **Hit Die:** d4
 - **Initiative Bonus:** +0
@@ -28,20 +28,18 @@ cssclasses:
 
 ## Class Abilities
 As given in the core rules plus the following:
-
-### Spellcasting Focus
-![](ClassAbilities.md#Magical%20Focus)
+### Read Magic
+![](ClassAbilities.md#Read%20Magic)
 ### Sense Magic
 ![](ClassAbilities.md#Sense%20Magic)
-
 ### Spell Casting 
 ![](ClassAbilities.md#Spell%20Casting)
-
+### Spellcasting Focus
+![](ClassAbilities.md#Magical%20Focus)
 ### True Name
 ![](ClassAbilities.md#True%20Name)
-
 ## Updated Mage Table
-<table class="btw">
+<table>
     <thead>
         <tr>
             <th rowspan="2">Level</th>
@@ -53,7 +51,6 @@ As given in the core rules plus the following:
             <th colspan="5">Saving Throws</th>
             <th rowspan="2">Invocation<br/>Dice#</th>
             <th colspan="6">Prepared Spells</th>
-            <th rowspan="2" class="left-align">Special</th>
         </tr>
         <tr>
             <th>Doom</th>
@@ -89,7 +86,6 @@ As given in the core rules plus the following:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td class="left-align">Spellcasting, Sense Magic, Arcane Tradition</td>
         </tr>
         <tr>
             <td>2</td>
@@ -110,7 +106,6 @@ As given in the core rules plus the following:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
         </tr>
         <tr>
             <td>3</td>
@@ -131,7 +126,6 @@ As given in the core rules plus the following:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
         </tr>
         <tr>
             <td>4</td>
@@ -152,7 +146,6 @@ As given in the core rules plus the following:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
         </tr>
         <tr>
             <td>5</td>
@@ -173,7 +166,6 @@ As given in the core rules plus the following:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
         </tr>
         <tr>
             <td>6</td>
@@ -194,7 +186,6 @@ As given in the core rules plus the following:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
         </tr>
         <tr>
             <td>7</td>
@@ -215,7 +206,6 @@ As given in the core rules plus the following:
             <td>1</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
         </tr>
         <tr>
             <td>8</td>
@@ -236,7 +226,6 @@ As given in the core rules plus the following:
             <td>2</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
         </tr>
         <tr>
             <td>9</td>
@@ -257,7 +246,6 @@ As given in the core rules plus the following:
             <td>2</td>
             <td>1</td>
             <td>--</td>
-            <td></td>
         </tr>
         <tr>
             <td>10</td>
@@ -278,7 +266,6 @@ As given in the core rules plus the following:
             <td>2</td>
             <td>2</td>
             <td>--</td>
-            <td></td>
         </tr>
         <tr>
             <td>11</td>
@@ -299,7 +286,6 @@ As given in the core rules plus the following:
             <td>2</td>
             <td>2</td>
             <td>1</td>
-            <td></td>
         </tr>
         <tr>
             <td>12</td>
@@ -320,7 +306,6 @@ As given in the core rules plus the following:
             <td>3</td>
             <td>2</td>
             <td>2</td>
-            <td></td>
         </tr>
         <tr>
             <td>13</td>
@@ -341,7 +326,6 @@ As given in the core rules plus the following:
             <td>3</td>
             <td>3</td>
             <td>2</td>
-            <td></td>
         </tr>
         <tr>
             <td>14</td>
@@ -362,7 +346,6 @@ As given in the core rules plus the following:
             <td>3</td>
             <td>3</td>
             <td>2</td>
-            <td></td>
         </tr>
         <tr>
             <td>15</td>
@@ -383,14 +366,11 @@ As given in the core rules plus the following:
             <td>3</td>
             <td>3</td>
             <td>3</td>
-            <td></td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="19" rowspan="3">* CON modifiers no longer apply after level 10.<br/>
-                                         # Add your WIS modifier to the number of Invocation Dice.<br/>
-                                         ^ Add your INT modifier to the number of 1st level spells you can prepare.</td>
+            <td colspan="18" rowspan="3">* CON modifiers no longer apply after level 10.<br/># Add your WIS modifier to the number of Invocation Dice.<br/>^ Add your INT modifier to the number of 1st level spells you can prepare.</td>
         </tr>
-	</tfoot>
+    </tfoot>
 </table>

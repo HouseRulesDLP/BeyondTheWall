@@ -7,13 +7,23 @@ cssclasses:
 *Through Sunken Lands* pg 13.
 
 - **HP at Level 1:** 8
-- **Hit Dice (Levels 2 to 10):** d8
+- **HP for Levels 2 to 10:** d8
 - **HP for Levels 11+:** +2/level
+- **Hit Die:** d8
 - **Initiative Bonus:** +1
 - **Weapons:** Any
 - **Armor:** Any
 
 # Table of Contents
+- [Starting Equipment](#Starting%20Equipment)
+- [Class Abilities](#Class%20Abilities)
+	- [Battle Mastery](#Battle%20Mastery)
+	- [Damage Dealer](#Damage%20Dealer)
+	- [Glancing Blows](#Glancing%20Blows)
+	- [Hauler](#Hauler)
+	- [Weapon Specialization](#Weapon%20Specialization)
+	- [Knacks](#Knacks)
+- [Updated Warrior Table](#Updated%20Warrior%20Table)
 
 ## Starting Equipment
 - an [Adventurer's Pack](CoinAndItsUses.md#equipment%20packs)
@@ -23,17 +33,15 @@ cssclasses:
 ## Class Abilities
 
 ### Battle Mastery
-Once per turn, when you make a melee attack, you may attempt a [Battle Maneuver](Battle_Maneuvers.md).  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Battle Maneuver target number, the maneuver succeeds.  Note that a Battle Maneuver cannot add to the damage of the attack and the target may be allowed a Saving Throw.
-
+![Battle Mastery](ClassAbilities.md#Battle%20Mastery)
+### Damage Dealer
+![](ClassAbilities.md#Damage%20Dealer)
+### Glancing Blows
+![](ClassAbilities.md#Glancing%20Blows)
 ### Hauler
-Add your Constitution Modifier (if positive) when calculating the max sizes of both your [Stowed](CoinAndItsUses.md#stowed%20items) and [Ready](CoinAndItsUses.md#readied%20items) equipment lists.
-
-### Minimum Damage
-Warriors are experts at dealing damage.  If your attack misses the target's AC by less than your level, you still deal your attack's minimum damage to the target.
-
+![](ClassAbilities.md#Hauler)
 ### Weapon Specialization
-All warriors have a favored weapon with which they are particularly skilled. Pick one weapon at first level. Your character receives a +1 to hit and +{level/2; round up} to damage while wielding that weapon.
-
+![](ClassAbilities.md#Weapon%20Specialization)
 ### Knacks
 Knacks are now gained at every odd level (reflected on the table below).  In addition to the listed set of knacks, the following list of knacks has also been added.  Unlike the knacks in the book, these may only be taken once each.
 1. ![](Knacks.md#Archer)
@@ -53,12 +61,13 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
 15. ![](Knacks.md#Protector)
 16. ![](Knacks.md#Reckless)
 17. ![](Knacks.md#Resilience)
-18. ![](Knacks.md#Shield%20Master)
-19. ![](Knacks.md#Slayer)
-20. ![](Knacks.md#Weapon%20Specialization)
+18. ![](Knacks.md#Scything%20Blows)
+19. ![](Knacks.md#Shield%20Master)
+20. ![](Knacks.md#Slayer)
+21. ![](Knacks.md#Weapon%20Specialization)
 
 ## Updated Warrior Table
-<table class="btw">
+<table>
     <thead>
         <tr>
             <th rowspan="2">Level</th>
@@ -69,7 +78,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <th rowspan="2">Traits</th>
             <th rowspan="2">Knacks</th>
             <th colspan="5">Saving Throws</th>
-            <th rowspan="2">Special</th>
+            <th rowspan="2">Battle<br/>Mastery</th>
+            <th rowspan="2">Damage<br/>Dealer</th>
+            <th rowspan="2">Glancing<br/>Blow<br/>Threshold</th>
+            <th rowspan="2">Weapon<br/>Specialization<br/>Damage Bonus</th>
         </tr>
         <tr>
             <th>Doom</th>
@@ -93,7 +105,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>14+</td>
             <td>15+</td>
             <td>16+</td>
-            <td class="left-align">Battle Maneuver 14+, Hauler, Minimum Damage, Weapon Specialization</td>
+            <td>14+</td>
+            <td>+0</td>
+            <td>1</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>2</td>
@@ -108,7 +123,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>14+</td>
             <td>15+</td>
             <td>16+</td>
-            <td></td>
+            <td>14+</td>
+            <td>+1</td>
+            <td>1</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>3</td>
@@ -123,7 +141,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>13+</td>
             <td>14+</td>
             <td>15+</td>
-            <td class="left-align">Battle Maneuver 12+</td>
+            <td>12+</td>
+            <td>+1</td>
+            <td>2</td>
+            <td>+3</td>
         </tr>
         <tr>
             <td>4</td>
@@ -138,7 +159,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>12+</td>
             <td>13+</td>
             <td>14+</td>
-            <td></td>
+            <td>12+</td>
+            <td>+2</td>
+            <td>2</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>5</td>
@@ -153,7 +177,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>12+</td>
             <td>13+</td>
             <td>14+</td>
-            <td class="left-align">Battle Maneuver 10+</td>
+            <td>10+</td>
+            <td>+2</td>
+            <td>3</td>
+            <td>+5</td>
         </tr>
         <tr>
             <td>6</td>
@@ -168,7 +195,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>11+</td>
             <td>12+</td>
             <td>13+</td>
-            <td></td>
+            <td>10+</td>
+            <td>+3</td>
+            <td>3</td>
+            <td>+6</td>
         </tr>
         <tr>
             <td>7</td>
@@ -183,7 +213,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>10+</td>
             <td>11+</td>
             <td>12+</td>
-            <td class="left-align">Battle Maneuver 9+</td>
+            <td>9+</td>
+            <td>+3</td>
+            <td>4</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>8</td>
@@ -198,7 +231,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>10+</td>
             <td>11+</td>
             <td>12+</td>
-            <td></td>
+            <td>9+</td>
+            <td>+4</td>
+            <td>4</td>
+            <td>+8</td>
         </tr>
         <tr>
             <td>9</td>
@@ -213,7 +249,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>9+</td>
             <td>10+</td>
             <td>11+</td>
-            <td class="left-align">Battle Maneuver 8+</td>
+            <td>8+</td>
+            <td>+4</td>
+            <td>5</td>
+            <td>+9</td>
         </tr>
         <tr>
             <td>10</td>
@@ -228,7 +267,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>8+</td>
             <td>9+</td>
             <td>10+</td>
-            <td></td>
+            <td>8+</td>
+            <td>+5</td>
+            <td>5</td>
+            <td>+10</td>
         </tr>
         <tr>
             <td>11</td>
@@ -243,7 +285,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>8+</td>
             <td>9+</td>
             <td>10+</td>
-            <td class="left-align">Battle Maneuver 7+</td>
+            <td>7+</td>
+            <td>+5</td>
+            <td>6</td>
+            <td>+11</td>
         </tr>
         <tr>
             <td>12</td>
@@ -258,7 +303,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>7+</td>
             <td>8+</td>
             <td>9+</td>
-            <td></td>
+            <td>7+</td>
+            <td>+6</td>
+            <td>6</td>
+            <td>+12</td>
         </tr>
         <tr>
             <td>13</td>
@@ -273,7 +321,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>6+</td>
             <td>7+</td>
             <td>8+</td>
-            <td class="left-align">Battle Maneuver 6+</td>
+            <td>6+</td>
+            <td>+6</td>
+            <td>7</td>
+            <td>+13</td>
         </tr>
         <tr>
             <td>14</td>
@@ -288,7 +339,10 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>6+</td>
             <td>7+</td>
             <td>8+</td>
-            <td></td>
+            <td>6+</td>
+            <td>+7</td>
+            <td>7</td>
+            <td>+14</td>
         </tr>
         <tr>
             <td>15</td>
@@ -303,12 +357,15 @@ Knacks are now gained at every odd level (reflected on the table below).  In add
             <td>5+</td>
             <td>6+</td>
             <td>7+</td>
-            <td class="left-align">Battle Maneuver 5+</td>
+            <td>5+</td>
+            <td>+7</td>
+            <td>8</td>
+            <td>+15</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="13">* CON modifiers no longer apply after level 10.</td>
+            <td colspan="16">* CON modifiers no longer apply after level 10.</td>
         </tr>
     </tfoot>
 </table>

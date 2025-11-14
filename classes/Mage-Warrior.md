@@ -3,9 +3,9 @@ cssclasses:
   - btw
   - clean-embeds
 ---
-# Warrior-Mage
+# Mage-Warrior
 - **HP at Level 1:** 6
-- **Additional HP (Levels 2 to 10):** d6
+- **HP for Levels 2 to 10:** d6
 - **HP for Levels 11+:** +1/level
 - **Hit Die:** d6
 - **Initiative Bonus:** +0
@@ -16,10 +16,10 @@ cssclasses:
 - [Starting Equipment](#Starting%20Equipment)
 - [Class Abilities](#Class%20Abilities)
 	- [Battle Mastery](#Battle%20Mastery)
-	- [Magical Focus](#Magical%20Focus)
 	- [Read Magic](#Read%20Magic)
 	- [Sense Magic](#Sense%20Magic)
 	- [Spell Casting](#Spell%20Casting)
+	- [Spellcasting Focus](#Spellcasting%20Focus)
 	- [True Name](#True%20Name)
 - [Mage-Warrior Table](#Mage-Warrior%20Table)
 
@@ -31,14 +31,14 @@ cssclasses:
 ## Class Abilities
 ### Battle Mastery
 ![](ClassAbilities.md#Battle%20Mastery)
-### Magical Focus
-![](ClassAbilities.md#Magical%20Focus)
 ### Read Magic
 ![](ClassAbilities.md#Read%20Magic)
 ### Sense Magic
 ![](ClassAbilities.md#Sense%20Magic)
 ### Spell Casting 
 ![](ClassAbilities.md#Spell%20Casting)
+### Spellcasting Focus
+![](ClassAbilities.md#Magical%20Focus)
 ### True Name
 ![](ClassAbilities.md#True%20Name)
 
@@ -52,12 +52,11 @@ cssclasses:
             <th rowspan="2">Attack<br/>Bonus</th>
             <th rowspan="2">Skills</th>
             <th rowspan="2">Traits</th>
-            <th rowspan="2">Knacks</th>
             <th colspan="5">Saving Throws</th>
             <th rowspan="2">Caster<br/>Level</th>
             <th rowspan="2">Invocation<br/>Dice#</th>
             <th colspan="5">Prepared Spells</th>
-            <th rowspan="2" class="left-align">Special</th>
+            <th rowspan="2">Battle<br/>Mastery</th>
         </tr>
         <tr>
             <th>Doom</th>
@@ -80,7 +79,6 @@ cssclasses:
             <td>+0</td>
             <td>2</td>
             <td>0</td>
-            <td>0</td>
             <td>13+</td>
             <td>14+</td>
             <td>14+</td>
@@ -93,7 +91,7 @@ cssclasses:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td class="left-align">Spellcasting, Sense Magic, Arcane Tradition</td>
+            <td>--</td>
         </tr>
         <tr>
             <td>2</td>
@@ -102,7 +100,6 @@ cssclasses:
             <td>+1</td>
             <td>2</td>
             <td>1</td>
-            <td>0</td>
             <td>13+</td>
             <td>14+</td>
             <td>14+</td>
@@ -115,7 +112,7 @@ cssclasses:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td class="left-align">Battle Maneuver 14+</td>
+            <td>14+</td>
         </tr>
         <tr>
             <td>3</td>
@@ -123,7 +120,6 @@ cssclasses:
             <td>3d6</td>
             <td>+1</td>
             <td>2</td>
-            <td>1</td>
             <td>1</td>
             <td>13+</td>
             <td>13+</td>
@@ -137,7 +133,7 @@ cssclasses:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
+            <td>14+</td>
         </tr>
         <tr>
             <td>4</td>
@@ -146,7 +142,6 @@ cssclasses:
             <td>+2</td>
             <td>3</td>
             <td>1</td>
-            <td>1</td>
             <td>12+</td>
             <td>12+</td>
             <td>13+</td>
@@ -159,7 +154,7 @@ cssclasses:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
+            <td>14+</td>
         </tr>
         <tr>
             <td>5</td>
@@ -168,7 +163,6 @@ cssclasses:
             <td>+2</td>
             <td>3</td>
             <td>2</td>
-            <td>1</td>
             <td>12+</td>
             <td>12+</td>
             <td>13+</td>
@@ -181,7 +175,7 @@ cssclasses:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
+            <td>14+</td>
         </tr>
         <tr>
             <td>6</td>
@@ -190,7 +184,6 @@ cssclasses:
             <td>+3</td>
             <td>3</td>
             <td>2</td>
-            <td>1</td>
             <td>12+</td>
             <td>12+</td>
             <td>12+</td>
@@ -203,7 +196,7 @@ cssclasses:
             <td>--</td>
             <td>--</td>
             <td>--</td>
-            <td class="left-align">Battle Maneuver 12+</td>
+            <td>14+</td>
         </tr>
         <tr>
             <td>7</td>
@@ -212,7 +205,6 @@ cssclasses:
             <td>+3</td>
             <td>4</td>
             <td>2</td>
-            <td>1</td>
             <td>11+</td>
             <td>11+</td>
             <td>11+</td>
@@ -225,7 +217,7 @@ cssclasses:
             <td>1</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
+            <td>14+</td>
         </tr>
         <tr>
             <td>8</td>
@@ -234,7 +226,6 @@ cssclasses:
             <td>+3</td>
             <td>4</td>
             <td>3</td>
-            <td>1</td>
             <td>11+</td>
             <td>11+</td>
             <td>11+</td>
@@ -247,7 +238,7 @@ cssclasses:
             <td>1</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
+            <td>12+</td>
         </tr>
         <tr>
             <td>9</td>
@@ -256,7 +247,6 @@ cssclasses:
             <td>+4</td>
             <td>4</td>
             <td>3</td>
-            <td>2</td>
             <td>10+</td>
             <td>11+</td>
             <td>11+</td>
@@ -269,7 +259,7 @@ cssclasses:
             <td>2</td>
             <td>--</td>
             <td>--</td>
-            <td></td>
+            <td>12+</td>
         </tr>
         <tr>
             <td>10</td>
@@ -278,7 +268,6 @@ cssclasses:
             <td>+4</td>
             <td>5</td>
             <td>3</td>
-            <td>2</td>
             <td>9+</td>
             <td>10+</td>
             <td>10+</td>
@@ -291,7 +280,7 @@ cssclasses:
             <td>2</td>
             <td>1</td>
             <td>--</td>
-            <td class="left-align">Battle Maneuver 10+</td>
+            <td>12+</td>
         </tr>
         <tr>
             <td>11</td>
@@ -300,7 +289,6 @@ cssclasses:
             <td>+5</td>
             <td>5</td>
             <td>4</td>
-            <td>2</td>
             <td>9+</td>
             <td>10+</td>
             <td>10+</td>
@@ -313,7 +301,7 @@ cssclasses:
             <td>2</td>
             <td>1</td>
             <td>--</td>
-            <td></td>
+            <td>12+</td>
         </tr>
         <tr>
             <td>12</td>
@@ -322,7 +310,6 @@ cssclasses:
             <td>+5</td>
             <td>5</td>
             <td>4</td>
-            <td>2</td>
             <td>9+</td>
             <td>9+</td>
             <td>10+</td>
@@ -335,7 +322,7 @@ cssclasses:
             <td>2</td>
             <td>2</td>
             <td>--</td>
-            <td></td>
+            <td>12+</td>
         </tr>
         <tr>
             <td>13</td>
@@ -344,7 +331,6 @@ cssclasses:
             <td>+6</td>
             <td>6</td>
             <td>4</td>
-            <td>2</td>
             <td>8+</td>
             <td>8+</td>
             <td>9+</td>
@@ -357,7 +343,7 @@ cssclasses:
             <td>2</td>
             <td>2</td>
             <td>1</td>
-            <td></td>
+            <td>12+</td>
         </tr>
         <tr>
             <td>14</td>
@@ -366,7 +352,6 @@ cssclasses:
             <td>+6</td>
             <td>6</td>
             <td>5</td>
-            <td>2</td>
             <td>8+</td>
             <td>8+</td>
             <td>9+</td>
@@ -379,7 +364,7 @@ cssclasses:
             <td>2</td>
             <td>2</td>
             <td>1</td>
-            <td class="left-align">Battle Maneuver 9+</td>
+            <td>10+</td>
         </tr>
         <tr>
             <td>15</td>
@@ -388,7 +373,6 @@ cssclasses:
             <td>+7</td>
             <td>6</td>
             <td>5</td>
-            <td>3</td>
             <td>8+</td>
             <td>8+</td>
             <td>8+</td>
@@ -401,12 +385,12 @@ cssclasses:
             <td>3</td>
             <td>2</td>
             <td>2</td>
-            <td></td>
+            <td>10+</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="20">* CON modifiers no longer apply after level 10.<br/># Add your WIS modifier to the number of Invocation Dice.<br/>^ Add your INT modifier to the number of 1st level spells you can prepare.</td>
+            <td colspan="19">* CON modifiers no longer apply after level 10.<br/># Add your WIS modifier to the number of Invocation Dice.<br/>^ Add your INT modifier to the number of 1st level spells you can prepare.</td>
         </tr>
-	</tfoot>
+    </tfoot>
 </table>

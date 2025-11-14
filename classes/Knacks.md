@@ -2,7 +2,7 @@
 **Archer:** Attacking at Far range does not cause you [Disadvantage](Glossary.md#Disadvantage) on the attack.
 
 ## %%Armored%%
-**Armored:** So long as you are wearing armor, the damage from any blunt, piercing or slashing attack is reduced by the armor's [weight category](CoinAndItsUses.md#armor%20properties) (1 for Light, 2 for Medium and 3 for Heavy).
+**Armored:** So long as you are wearing armor, you gain [Damage Reduction](Glossary.md#Damage%20Reduction) vs all damage equal to your Constitution Modifier.
 
 ## %%Assassin%%
 **Assassin:** Increase your [Sneak Attack](Rogue.md#sneak%20attack) damage dice to d6s.
@@ -11,7 +11,7 @@
 **Berserk:** For the duration of one combat, gain +2 on Strength Checks, melee Attack Rolls, melee Damage Rolls and saves vs charm/fear/mind-control but suffer a -4 to AC.  After combat ends, gain a level of [Exhaustion](Conditions.md#exhausted). 
 
 ## %%Blackjack%%
-**Blackjack:** When attacking a humanoid victim that is not wearing a helmet, and you have [Advantage](Glossary.md#Advantage) on your attack, you can attempt to knock them out with a suitable "non-lethal" attack (blackjack, weapon pommel, etc). The victim will take 1d4 bludgeoning damage and must make a Fortitude save vs. your attack total or fall [unconscious](Conditions.md#unconscious) for 2p4 Rounds.
+**Blackjack:** When attacking a humanoid victim that is not wearing a helmet, and you have [Advantage](Glossary.md#Advantage) on your attack, you can attempt to knock them out with a suitable "non-lethal" attack (blackjack, weapon pommel, etc). The victim will take 1d4 bludgeoning damage and must make a Hold saving throw or fall [unconscious](Conditions.md#unconscious) for 2p4 Rounds.
 
 ## %%Cavalry%%
 **Cavalry:** While mounted, you gain +1 AC, +1 to hit and +2 damage.  Additionally, whatever creature you are mounted on gains +1 AC, +1 Reflex and +1 to its [Morale](Hirelings_and_Allies.md#morale).
@@ -26,10 +26,10 @@
 **Code Breaker:** You have [Advantage](Glossary.md#Advantage) on checks to decipher secret codes and unknown languages.
 
 ## %%Deadly Blow%%
-**Deadly Blow:** When making a melee attack, increase your weapon's damage die [1 step](DieSteps.md).
+**Deadly Blow:** When making a melee weapon attack, increase your weapon's damage die [1 step](DieSteps.md).
 
 ## %%Deadly Shot%%
-**Deadly Shot:**  When making a ranged attack, increase your weapon's damage die [1 step](DieSteps.md).
+**Deadly Shot:**  When making a ranged weapon attack, increase your weapon's damage die [1 step](DieSteps.md).
 
 ## %%Defensive Fighter%%
 **Defensive Fighter:** as shown in the core rules.
@@ -59,7 +59,7 @@
 **Master of Disguise:** You gain [Advantage](Glossary.md#Advantage) on [deception](Skills.md#deception) checks to pretend to be someone else and on attempts to see through someone else's disguise.
 
 ## %%Mighty Shot%%
-**Mighty Shot:** You may use your [Battle Maneuvers](#battle%20maneuvers) ability with ranged attacks.
+**Mighty Shot:** You may use your [Battle Mastery](ClassAbilities.md#Battle%20Mastery) ability with ranged attacks.
 
 ## %%Precise Shot%%
 **Precise Shot:** You ignore any [cover bonuses](Combat.md#cover) your target may have so long as you can see a significant portion of the target (such as a head, shoulder, thigh, etc).  Additionally, you take no penalty for firing at [Close range](Combat.md#ranges) or [into melee](Combat.md#firing%20into%20melee) (and do not risk hitting your friends).
@@ -76,14 +76,17 @@
 ## %%Resilience%%
 **Resilience:** as shown in the core rules
 
+## %%Scything Blows%%
+**Scything Blows:** If you hit a creature whose [Hit Dice](Glossary.md#Hit%20Die) are less than 1/3 your level (round down), its HP are brought to zero, regardless of damage.  If the hit is a [Critical Hit](Glossary.md#Critical%20Hit), this ability affects creatures with Hit Dice less than 1/2 your level (round up).
+
 ## %%Second Story Work%%
-**Second Story Work:** So long as you are not wearing medium or heavy armor, your movement is not slowed when climbing or walking along narrow surfaces. Additionally, you take half damage from falls if you pass a Dexterity+Ray Saving Throw at [Task Difficulty](README.md#Task%20Difficulty) of 10 + 1 per 10 feet fallen.
+**Second Story Work:** So long as you are not wearing medium or heavy armor, your movement is not slowed when climbing or walking along narrow surfaces. Additionally, you take half damage from falls if you pass a Ray (DEX) Saving Throw at -1 per full 10 feet fallen.
 
 ## %%Shield Master%%
 **Shield Master:** When wielding a shield, you gain an additional +1 AC.  Additionally, you may add your shield's AC bonus to your Ray saves.
 
 ## %%Skulker%%
-**Skulker:** While in dim lighting conditions, you have [Advantage](Glossary.md#Advantage) on [stealth](Skills.md#stealth) checks. Additionally, dim lighting **does not** impose [Disadvantage](Glossary.md#Disadvantage) on your own [perception](Skills.md#perception) checks.
+**Skulker:** While in dim lighting conditions, you have [Advantage](Glossary.md#Advantage) on [stealth](Skills.md#stealth) checks. Additionally, you gain [Low-Light Vision](Glossary.md#Low-Light%20Vision) if you did not already have it.  If you do already have Low-Light Vision, you gain [Darkvision](Glossary.md#Darkvision).  If you already have Darkvision, you gain no further improvement.
 
 ## %%Slayer%%
 **Slayer:** Pick a specific type of enemy (bears, goblins, dragons, etc).  You gain +1 to hit and +2 damage vs these creatures.  You also gain [Advantage](Glossary.md#Advantage) on saving throws vs the supernatural abilities of these creatures.
@@ -92,4 +95,4 @@
 **Watchful:** So long as you are conscious, you have [Advantage](Glossary.md#Advantage) on [perception](Skills.md#perception) checks to spot an ambush and you are never considered “unaware” of attacks.
 
 ## %%Weapon Specialization%%
-**Weapon Specialist:** as shown in the core rules
+**Weapon Specialist:** You gain the [Weapon Specialization](ClassAbilities.md#Weapon%20Specialization) ability.  Each time you pick this knack, you must select a weapon for which you are not already specialized.

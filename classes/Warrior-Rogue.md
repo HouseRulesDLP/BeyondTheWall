@@ -5,13 +5,23 @@ cssclasses:
 ---
 # Warrior-Rogue
 - **HP at Level 1:** 8
-- **Hit Dice (for Levels 2 to 10):** d6 (even), d8 (odd)
+- **HP for Levels 2 to 10:** d6 (even), d8 (odd)
 - **HP for Levels 11+:** +1 (even), +2 (odd)
+- **Hit Die:** d8
 - **Initiative Bonus:** +1
 - **Weapons:** Any
 - **Armor:** Light, Medium, Bucklers and Shields
 
 # Table of Contents
+- [Starting Equipment](#Starting%20Equipment)
+- [Class Abilities](#Class%20Abilities)
+	- [Battle Mastery](#Battle%20Mastery)
+	- [Damage Dealer](#Damage%20Dealer)
+	- [Fortune's Favor](#Fortune's%20Favor)
+	- [Glancing Blows](#Glancing%20Blows)
+	- [Highly Skilled](#Highly%20Skilled)
+	- [Knacks](#Knacks)
+- [Warrior-Rogue Table](#Warrior-Rogue%20Table)
 
 ## Starting Equipment
 - an [Adventurer's Pack](CoinAndItsUses.md#equipment%20packs)
@@ -19,16 +29,16 @@ cssclasses:
 - 2d6 sp
 
 ## Class Abilities
-
 ### Battle Mastery
 ![](ClassAbilities.md#Battle%20Mastery)
-
+### Damage Dealer
+![](ClassAbilities.md#Damage%20Dealer)
 ### Fortune's Favor
 ![](ClassAbilities.md#Fortune's%20Favor,%20Lesser)
-
+### Glancing Blows
+![](ClassAbilities.md#Glancing%20Blows)
 ### Highly Skilled
 ![](ClassAbilities.md#Highly%20Skilled,%20Lesser)
-
 ### Knacks
 Each knack may only be chosen once unless specified otherwise.
 1. ![](Knacks.md#Archer)
@@ -54,7 +64,7 @@ Each knack may only be chosen once unless specified otherwise.
 
 
 ## Warrior-Rogue Table
-<table class="btw">
+<table>
     <thead>
         <tr>
             <th rowspan="2">Level</th>
@@ -65,7 +75,10 @@ Each knack may only be chosen once unless specified otherwise.
             <th rowspan="2">Traits</th>
             <th rowspan="2">Knacks</th>
             <th colspan="5">Saving Throws</th>
-            <th rowspan="2" class="left-align">Special</th>
+            <th rowspan="2">Battle<br/>Mastery</th>
+            <th rowspan="2">Damage<br/>Dealer</th>
+            <th rowspan="2">Glancing Blow<br/>Threshold</th>
+            <th rowspan="2">Weapon<br/>Specialization<br/>Damage Bonus</th>
         </tr>
         <tr>
             <th>Doom</th>
@@ -89,7 +102,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>14+</td>
             <td>15+</td>
             <td>16+</td>
-            <td class="left-align">Battle Maneuver 14+ </td>
+            <td>14+</td>
+            <td>+0</td>
+            <td>1</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>2</td>
@@ -104,7 +120,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>14+</td>
             <td>15+</td>
             <td>16+</td>
-            <td></td>
+            <td>14+</td>
+            <td>+0</td>
+            <td>1</td>
+            <td>+1</td>
         </tr>
         <tr>
             <td>3</td>
@@ -119,7 +138,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>13+</td>
             <td>14+</td>
             <td>15+</td>
-            <td></td>
+            <td>14+</td>
+            <td>+1</td>
+            <td>1</td>
+            <td>+2</td>
         </tr>
         <tr>
             <td>4</td>
@@ -134,7 +156,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>12+</td>
             <td>13+</td>
             <td>14+</td>
-            <td class="left-align">Battle Maneuver 12+</td>
+            <td>12+</td>
+            <td>+1</td>
+            <td>2</td>
+            <td>+3</td>
         </tr>
         <tr>
             <td>5</td>
@@ -149,7 +174,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>12+</td>
             <td>13+</td>
             <td>14+</td>
-            <td></td>
+            <td>12+</td>
+            <td>+1</td>
+            <td>2</td>
+            <td>+3</td>
         </tr>
         <tr>
             <td>6</td>
@@ -164,7 +192,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>11+</td>
             <td>12+</td>
             <td>13+</td>
-            <td></td>
+            <td>12+</td>
+            <td>+2</td>
+            <td>2</td>
+            <td>+4</td>
         </tr>
         <tr>
             <td>7</td>
@@ -179,7 +210,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>10+</td>
             <td>11+</td>
             <td>12+</td>
-            <td class="left-align">Battle Maneuver 10+</td>
+            <td>10+</td>
+            <td>+2</td>
+            <td>3</td>
+            <td>+5</td>
         </tr>
         <tr>
             <td>8</td>
@@ -194,7 +228,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>10+</td>
             <td>11+</td>
             <td>12+</td>
-            <td></td>
+            <td>10+</td>
+            <td>+2</td>
+            <td>3</td>
+            <td>+5</td>
         </tr>
         <tr>
             <td>9</td>
@@ -209,7 +246,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>9+</td>
             <td>10+</td>
             <td>11+</td>
-            <td></td>
+            <td>10+</td>
+            <td>+3</td>
+            <td>3</td>
+            <td>+6</td>
         </tr>
         <tr>
             <td>10</td>
@@ -224,7 +264,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>8+</td>
             <td>10+</td>
             <td>10+</td>
-            <td class="left-align">Battle Maneuver 9+</td>
+            <td>9+</td>
+            <td>+3</td>
+            <td>4</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>11</td>
@@ -239,7 +282,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>8+</td>
             <td>9+</td>
             <td>10+</td>
-            <td></td>
+            <td>9+</td>
+            <td>+3</td>
+            <td>4</td>
+            <td>+7</td>
         </tr>
         <tr>
             <td>12</td>
@@ -254,7 +300,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>7+</td>
             <td>9+</td>
             <td>9+</td>
-            <td></td>
+            <td>9+</td>
+            <td>+4</td>
+            <td>4</td>
+            <td>+8</td>
         </tr>
         <tr>
             <td>13</td>
@@ -269,7 +318,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>6+</td>
             <td>8+</td>
             <td>8+</td>
-            <td class="left-align">Battle Maneuver 8+</td>
+            <td>8+</td>
+            <td>+4</td>
+            <td>5</td>
+            <td>+9</td>
         </tr>
         <tr>
             <td>14</td>
@@ -284,7 +336,10 @@ Each knack may only be chosen once unless specified otherwise.
             <td>6+</td>
             <td>8+</td>
             <td>8+</td>
-            <td></td>
+            <td>8+</td>
+            <td>+4</td>
+            <td>5</td>
+            <td>+9</td>
         </tr>
         <tr>
             <td>15</td>
@@ -299,12 +354,15 @@ Each knack may only be chosen once unless specified otherwise.
             <td>5+</td>
             <td>7+</td>
             <td>7+</td>
-            <td></td>
+            <td>8+</td>
+            <td>+5</td>
+            <td>5</td>
+            <td>+10</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="13">* CON modifiers no longer apply after level 10.</td>
+            <td colspan="16">* CON modifiers no longer apply after level 10.</td>
         </tr>
     </tfoot>
 </table>
