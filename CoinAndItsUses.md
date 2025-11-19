@@ -202,11 +202,12 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
 - **(H)eavy**: Small creatures have *Disadvantage* when wielding weapons with this tag.
 
 ### Ranges
-- **(C)lose**: 5 feet - Weapons with a max range of Far or further have *Disadvantage* at this range.
-- **(N)ear**: 30 feet
-- **(F)ar**: 150 feet - Attacks made at this range or further have *Disadvantage*.
-- **(S)ight**: Within Line of Sight (LoS).
-- **(D)istant**: Beyond perception.
+- **(C)lose**: within 5 feet - Weapons with a max range of Far or further have *Disadvantage* at this range
+- **(N)ear**: 6 to 30 feet (in same zone)
+- **(F)ar**: 31-90 feet (1 to 2 zones) - Attacks made at this range or further have *Disadvantage*
+- **(D)istant**: 91-150 feet (3 to 4 zones)
+- **(S)ight/LoS**: Beyond 150 feet, but within Line of Sight
+- **(B)eyond**: Beyond perception
 
 ### Melee Weapons
 <table border=2>
@@ -598,7 +599,7 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
                 <td style="text-align:center;">H</td>
                 <td style="text-align:center;">1d8</td>
                 <td style="text-align:center;">P</td>
-                <td style="text-align:center;">F</td>
+                <td style="text-align:center;">D</td>
                 <td style="text-align:right;">100sp</td>
                 <td style="text-align:center;">2</td>
                 <td style="text-align:left;">2H</td>
@@ -628,7 +629,7 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
                 <td style="text-align:center;">H</td>
                 <td style="text-align:center;">1d10</td>
                 <td style="text-align:center;">P</td>
-                <td style="text-align:center;">F</td>
+                <td style="text-align:center;">D</td>
                 <td style="text-align:right;">150sp</td>
                 <td style="text-align:center;">2</td>
                 <td style="text-align:left;">Reload, 2H</td>
@@ -688,7 +689,7 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
                 <td style="text-align:center;">M</td>
                 <td style="text-align:center;">1d6</td>
                 <td style="text-align:center;">P</td>
-                <td style="text-align:center;">N</td>
+                <td style="text-align:center;">F</td>
                 <td style="text-align:right;">3sp</td>
                 <td style="text-align:center;">1</td>
                 <td style="text-align:left;">Versatile, Hurlant</td>
@@ -718,7 +719,7 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
                 <td style="text-align:center;">L</td>
                 <td style="text-align:center;">1d6</td>
                 <td style="text-align:center;">B</td>
-                <td style="text-align:center;">F</td>
+                <td style="text-align:center;">D</td>
                 <td style="text-align:right;">2cp</td>
                 <td style="text-align:center;">1</td>
                 <td style="text-align:left;"></td>
@@ -728,7 +729,7 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
                 <td style="text-align:center;">M</td>
                 <td style="text-align:center;">1d8</td>
                 <td style="text-align:center;">P</td>
-                <td style="text-align:center;">N</td>
+                <td style="text-align:center;">F</td>
                 <td style="text-align:right;">2sp</td>
                 <td style="text-align:center;">1</td>
                 <td style="text-align:left;">Versatile, Hurlant</td>
@@ -1647,6 +1648,9 @@ Be it as a beast of burden, means of transportation or just some extra protectio
 
 Animals can typically drag/pull five times their carry if otherwise unburdened.
 
+#### Mount Speed
+Each point of speed is equal to 30 ft (or 1 zone) of movemnt.  Thus, a camel, with Speed 2 can move up to 60 ft or 2 zones in a single move.
+
 <!-- directives:[] -->
 <div id="content">
     <table border=2>
@@ -1662,55 +1666,55 @@ Animals can typically drag/pull five times their carry if otherwise unburdened.
             <tr>
                 <td style="text-align:left;">Camel</td>
                 <td style="text-align:right;">100sp</td>
-                <td style="text-align:center;">50ft</td>
+                <td style="text-align:center;">2</td>
                 <td style="text-align:left;">Carry 30 items</td>
             </tr>
             <tr>
                 <td style="text-align:left;">Donkey / Mule</td>
                 <td style="text-align:right;">50sp</td>
-                <td style="text-align:center;">40ft</td>
+                <td style="text-align:center;">1</td>
                 <td style="text-align:left;">Carry 25 items</td>
             </tr>
             <tr style="background-color:#91a3b0;">
                 <td style="text-align:left;">Elephant</td>
                 <td style="text-align:right;">3,000sp</td>
-                <td style="text-align:center;">40ft</td>
+                <td style="text-align:center;">1</td>
                 <td style="text-align:left;">Carry 75 items</td>
             </tr>
             <tr style="background-color:#91a3b0;">
                 <td style="text-align:left;">Horse, draft / Ox</td>
                 <td style="text-align:right;">100sp</td>
-                <td style="text-align:center;">40ft</td>
+                <td style="text-align:center;">1</td>
                 <td style="text-align:left;">Carry 50 items</td>
             </tr>
             <tr>
                 <td style="text-align:left;">Horse, riding</td>
                 <td style="text-align:right;">150sp</td>
-                <td style="text-align:center;">60ft</td>
+                <td style="text-align:center;">2</td>
                 <td style="text-align:left;">Carry 30 items</td>
             </tr>
             <tr>
                 <td style="text-align:left;">Horse, war</td>
                 <td style="text-align:right;">2,000sp</td>
-                <td style="text-align:center;">60ft</td>
+                <td style="text-align:center;">2</td>
                 <td style="text-align:left;">Carry 40 items</td>
             </tr>
             <tr style="background-color:#91a3b0;">
                 <td style="text-align:left;">Dog, hunt/guard</td>
                 <td style="text-align:right;">25sp</td>
-                <td style="text-align:center;">40ft</td>
+                <td style="text-align:center;">1</td>
                 <td style="text-align:left;">Carry 5 items</td>
             </tr>
             <tr style="background-color:#91a3b0;">
                 <td style="text-align:left;">Dog, war</td>
                 <td style="text-align:right;">50sp</td>
-                <td style="text-align:center;">40ft</td>
+                <td style="text-align:center;">1</td>
                 <td style="text-align:left;">Carry 10 items</td>
             </tr>
             <tr>
                 <td style="text-align:left;">Pony</td>
                 <td style="text-align:right;">60sp</td>
-                <td style="text-align:center;">40ft</td>
+                <td style="text-align:center;">1</td>
                 <td style="text-align:left;">Carry 15 items</td>
             </tr>
         </tbody>
