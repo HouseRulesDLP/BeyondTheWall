@@ -4,6 +4,7 @@ cssclasses:
   - clean-embeds
 ---
 # Rogue
+- **Requirements:** DEX 11+, INT 9+
 - **HP at Level 1:** 6
 - **HP for Levels 2 to 10:** d6
 - **HP for Levels 11+:** +1/level
@@ -53,6 +54,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <th rowspan="2">Traits</th>
             <th rowspan="2">Knacks</th>
             <th colspan="5">Saving Throws</th>
+            <th rowspan="2">Save<br/>Mod</th>
             <th rowspan="2">Sneak<br/>Attack</th>
         </tr>
         <tr>
@@ -77,6 +79,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>13+</td>
             <td>15+</td>
             <td>15+</td>
+            <td>+0</td>
             <td>--</td>
         </tr>
         <tr>
@@ -92,6 +95,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>13+</td>
             <td>15+</td>
             <td>15+</td>
+            <td>+0</td>
             <td>+1d4</td>
         </tr>
         <tr>
@@ -107,6 +111,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>12+</td>
             <td>14+</td>
             <td>14+</td>
+            <td>+0</td>
             <td>+1d4</td>
         </tr>
         <tr>
@@ -122,6 +127,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>12+</td>
             <td>14+</td>
             <td>14+</td>
+            <td>+0</td>
             <td>+1d4</td>
         </tr>
         <tr>
@@ -137,6 +143,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>11+</td>
             <td>13+</td>
             <td>13+</td>
+            <td>-1</td>
             <td>+1d4</td>
         </tr>
         <tr>
@@ -152,6 +159,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>11+</td>
             <td>13+</td>
             <td>13+</td>
+            <td>-1</td>
             <td>+2d4</td>
         </tr>
         <tr>
@@ -167,6 +175,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>10+</td>
             <td>12+</td>
             <td>12+</td>
+            <td>-1</td>
             <td>+2d4</td>
         </tr>
         <tr>
@@ -182,6 +191,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>10+</td>
             <td>12+</td>
             <td>12+</td>
+            <td>-1</td>
             <td>+2d4</td>
         </tr>
         <tr>
@@ -197,6 +207,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>9+</td>
             <td>11+</td>
             <td>11+</td>
+            <td>-1</td>
             <td>+2d4</td>
         </tr>
         <tr>
@@ -212,6 +223,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>9+</td>
             <td>11+</td>
             <td>11+</td>
+            <td>-2</td>
             <td>+3d4</td>
         </tr>
         <tr>
@@ -227,6 +239,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>8+</td>
             <td>10+</td>
             <td>10+</td>
+            <td>-2</td>
             <td>+3d4</td>
         </tr>
         <tr>
@@ -242,6 +255,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>8+</td>
             <td>10+</td>
             <td>10+</td>
+            <td>-2</td>
             <td>+3d4</td>
         </tr>
         <tr>
@@ -257,6 +271,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>7+</td>
             <td>9+</td>
             <td>9+</td>
+            <td>-2</td>
             <td>+3d4</td>
         </tr>
         <tr>
@@ -272,6 +287,7 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>7+</td>
             <td>9+</td>
             <td>9+</td>
+            <td>-2</td>
             <td>+4d4</td>
         </tr>
         <tr>
@@ -287,12 +303,13 @@ Like Warriors, Rogues have a list of knacks that they may learn as they increase
             <td>6+</td>
             <td>8+</td>
             <td>8+</td>
+            <td>-3</td>
             <td>+4d4</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="13">* CON modifiers no longer apply after level 10.</td>
+            <td colspan="14">* CON modifiers no longer apply after level 10.</td>
         </tr>
     </tfoot>
 </table>

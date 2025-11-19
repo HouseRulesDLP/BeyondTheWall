@@ -2,17 +2,23 @@
 - Species
 	- [Dwarf](Dwarf.md)
 	- [Elf](Elf.md)
-	- [Goblin](Goblin.md)
 	- [Hob](Hob.md)
 	- [Human](Human.md)
-	- [Orc](Orc.md)
+		- Optional
+			- [Giant-Kin](Giant-Kin.md)
+			- [Goblin](Goblin.md)
+			- [Orc](Orc.md)
 - Classes
 	- [Warrior](Warrior.md)
 	- [Rogue](Rogue.md)
 	- [Mage](Mage.md)
-	- [Warrior-Rogue](Warrior-Rogue.md)
-	- [Warrior-Mage](Warrior-Mage.md)
-	- [Rogue-Mage](Rogue-Mage.md)
+	- Optional
+		- [Warrior-Rogue](Warrior-Rogue.md)
+		- [Warrior-Mage](Warrior-Mage.md)
+		- [Rogue-Warrior](Rogue-Warrior.md)
+		- [Rogue-Mage](Rogue-Mage.md)
+		- [Mage-Warrior](Mage-Warrior.md)
+		- [Mage-Rogue](Mage-Rogue.md)
 - [Coin and its Uses](CoinAndItsUses.md)
 	- [Encumbrance](CoinAndItsUses.md#Encumbrance)
 	- [Coinage](CoinAndItsUses.md#coinage)

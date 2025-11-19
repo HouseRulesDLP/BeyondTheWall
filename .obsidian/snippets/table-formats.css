@@ -68,4 +68,64 @@
     text-align: center;
     vertical-align: center;
 }
+
+
+
+.btw-small table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-bottom: solid 2px black;
+    text-align: center;
+}
+.btw-small table thead th {
+    font-family: 'Soutane Black';
+    font-weight: strong;
+    font-size: 1.0em;
+    padding-left: 0.8em;
+    border-bottom: solid 1px black !important;
+    vertical-align: bottom;
+    min-width: 3.0em;
+    background-color: lightgrey !important;
+    text-align: center;
+}
+.btw-small table td {
+    min-width: 3.0em;
+    font-size: 0.8em;
+    padding-left: 0.8em;
+    padding-bottom: 0.1em;
+    vertical-align: top;
+    border: solid 1px grey !important;
+    text-align: center;
+}
+.btw-small table th.right-align,
+.btw-small table td.right-align {
+    text-align: right !important;
+}
+.btw-small table th.left-align,
+.btw-small table td.left-align {
+    text-align: left !important;
+}
+.btw-small table td.sub-header {
+    padding-left: 0.2em;
+    font-weight: bold;
+    border-top: solid 2px grey !important;
+    border-bottom: solid 1px grey !important;
+}
+.btw-small table td.sub-header-left {
+    padding-left: 0.2em;
+    text-align: left;
+    font-weight: bold;
+    border-top: solid 2px grey !important;
+    border-bottom: solid 1px grey !important;
+}
+.btw-small table tr:nth-child(odd) {
+    background-color: #F5F4F2 !important;
+}
+.btw-small table tbody tr:hover td {
+    background-color: lightblue;
+}
+.btw-small table tfoot td {
+    text-align: left !important;
+    background-color: lightgrey;
+}
 /* ------ */

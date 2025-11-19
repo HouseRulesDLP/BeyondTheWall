@@ -4,6 +4,7 @@ cssclasses:
   - clean-embeds
 ---
 # Rogue-Warrior
+- **Requirements:** CON 11+, DEX 11+, INT 9+
 - **HP at Level 1:** 6
 - **HP for Levels 2 to 10:** d6 (odd), d8 (even)
 - **HP for Levels 11+:** +1 (odd), +2 (even)
@@ -57,6 +58,7 @@ Each knack may only be chosen once unless specified otherwise.
             <th rowspan="2">Traits</th>
             <th rowspan="2">Knacks</th>
             <th colspan="5">Saving Throws</th>
+            <th rowspan="2">Save<br/>Mod</th>
             <th rowspan="2">Sneak<br/>Attack</th>
         </tr>
         <tr>
@@ -81,6 +83,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>13+</td>
             <td>15+</td>
             <td>15+</td>
+            <td>+0</td>
             <td>--</td>
         </tr>
         <tr>
@@ -96,6 +99,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>13+</td>
             <td>15+</td>
             <td>15+</td>
+            <td>+0</td>
             <td>--</td>
         </tr>
         <tr>
@@ -111,6 +115,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>12+</td>
             <td>14+</td>
             <td>14+</td>
+            <td>+0</td>
             <td>+1d4</td>
         </tr>
         <tr>
@@ -126,6 +131,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>12+</td>
             <td>14+</td>
             <td>14+</td>
+            <td>+0</td>
             <td>+1d4</td>
         </tr>
         <tr>
@@ -141,6 +147,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>11+</td>
             <td>13+</td>
             <td>13+</td>
+            <td>+0</td>
             <td>+1d4</td>
         </tr>
         <tr>
@@ -156,6 +163,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>11+</td>
             <td>13+</td>
             <td>13+</td>
+            <td>+0</td>
             <td>+1d4</td>
         </tr>
         <tr>
@@ -171,6 +179,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>10+</td>
             <td>12+</td>
             <td>12+</td>
+            <td>-1</td>
             <td>+1d4</td>
         </tr>
         <tr>
@@ -186,6 +195,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>10+</td>
             <td>12+</td>
             <td>12+</td>
+            <td>-1</td>
             <td>+1d4</td>
         </tr>
         <tr>
@@ -201,6 +211,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>9+</td>
             <td>11+</td>
             <td>11+</td>
+            <td>-1</td>
             <td>+2d4</td>
         </tr>
         <tr>
@@ -216,6 +227,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>9+</td>
             <td>10+</td>
             <td>11+</td>
+            <td>-1</td>
             <td>+2d4</td>
         </tr>
         <tr>
@@ -231,6 +243,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>8+</td>
             <td>10+</td>
             <td>10+</td>
+            <td>-1</td>
             <td>+2d4</td>
         </tr>
         <tr>
@@ -246,6 +259,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>8+</td>
             <td>9+</td>
             <td>10+</td>
+            <td>-1</td>
             <td>+2d4</td>
         </tr>
         <tr>
@@ -261,6 +275,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>7+</td>
             <td>8+</td>
             <td>9+</td>
+            <td>-2</td>
             <td>+2d4</td>
         </tr>
         <tr>
@@ -276,6 +291,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>7+</td>
             <td>8+</td>
             <td>9+</td>
+            <td>-2</td>
             <td>+2d4</td>
         </tr>
         <tr>
@@ -291,12 +307,13 @@ Each knack may only be chosen once unless specified otherwise.
             <td>6+</td>
             <td>7+</td>
             <td>8+</td>
+            <td>-2</td>
             <td>+3d4</td>
         </tr>
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="13">* CON modifiers no longer apply after level 10.</td>
+            <td colspan="14">* CON modifiers no longer apply after level 10.</td>
         </tr>
     </tfoot>
 </table>

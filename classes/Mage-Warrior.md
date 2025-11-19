@@ -4,6 +4,7 @@ cssclasses:
   - clean-embeds
 ---
 # Mage-Warrior
+- **Requirements:** STR or DEX 11+, INT 11+, CON 9+, WIS 9+
 - **HP at Level 1:** 6
 - **HP for Levels 2 to 10:** d6
 - **HP for Levels 11+:** +1/level
@@ -53,6 +54,7 @@ cssclasses:
             <th rowspan="2">Skills</th>
             <th rowspan="2">Traits</th>
             <th colspan="5">Saving Throws</th>
+            <th rowspan="2">Save<br/>Mod</th>
             <th rowspan="2">Caster<br/>Level</th>
             <th rowspan="2">Invocation<br/>Dice#</th>
             <th colspan="5">Prepared Spells</th>
@@ -84,6 +86,7 @@ cssclasses:
             <td>14+</td>
             <td>16+</td>
             <td>14+</td>
+            <td>+0</td>
             <td>1</td>
             <td>1d6</td>
             <td>1</td>
@@ -105,6 +108,7 @@ cssclasses:
             <td>14+</td>
             <td>16+</td>
             <td>14+</td>
+            <td>+0</td>
             <td>1</td>
             <td>1d6</td>
             <td>1</td>
@@ -126,6 +130,7 @@ cssclasses:
             <td>14+</td>
             <td>15+</td>
             <td>13+</td>
+            <td>+0</td>
             <td>2</td>
             <td>2d6</td>
             <td>2</td>
@@ -147,6 +152,7 @@ cssclasses:
             <td>13+</td>
             <td>14+</td>
             <td>13+</td>
+            <td>+0</td>
             <td>3</td>
             <td>3d6</td>
             <td>2</td>
@@ -168,6 +174,7 @@ cssclasses:
             <td>13+</td>
             <td>14+</td>
             <td>12+</td>
+            <td>+0</td>
             <td>3</td>
             <td>3d6</td>
             <td>2</td>
@@ -189,6 +196,7 @@ cssclasses:
             <td>12+</td>
             <td>14+</td>
             <td>12+</td>
+            <td>+0</td>
             <td>4</td>
             <td>4d6</td>
             <td>2</td>
@@ -210,6 +218,7 @@ cssclasses:
             <td>11+</td>
             <td>13+</td>
             <td>11+</td>
+            <td>-1</td>
             <td>5</td>
             <td>5d6</td>
             <td>2</td>
@@ -231,6 +240,7 @@ cssclasses:
             <td>11+</td>
             <td>13+</td>
             <td>11+</td>
+            <td>-1</td>
             <td>5</td>
             <td>5d6</td>
             <td>2</td>
@@ -252,6 +262,7 @@ cssclasses:
             <td>11+</td>
             <td>13+</td>
             <td>10+</td>
+            <td>-1</td>
             <td>6</td>
             <td>6d6</td>
             <td>3</td>
@@ -273,6 +284,7 @@ cssclasses:
             <td>10+</td>
             <td>12+</td>
             <td>9+</td>
+            <td>-1</td>
             <td>7</td>
             <td>7d6</td>
             <td>3</td>
@@ -294,6 +306,7 @@ cssclasses:
             <td>10+</td>
             <td>12+</td>
             <td>9+</td>
+            <td>-1</td>
             <td>7</td>
             <td>7d6</td>
             <td>3</td>
@@ -315,6 +328,7 @@ cssclasses:
             <td>10+</td>
             <td>11+</td>
             <td>8+</td>
+            <td>-1</td>
             <td>8</td>
             <td>8d6</td>
             <td>3</td>
@@ -336,6 +350,7 @@ cssclasses:
             <td>9+</td>
             <td>10+</td>
             <td>7+</td>
+            <td>-2</td>
             <td>9</td>
             <td>9d6</td>
             <td>3</td>
@@ -357,6 +372,7 @@ cssclasses:
             <td>9+</td>
             <td>10+</td>
             <td>7+</td>
+            <td>-2</td>
             <td>9</td>
             <td>9d6</td>
             <td>3</td>
@@ -378,6 +394,7 @@ cssclasses:
             <td>8+</td>
             <td>10+</td>
             <td>6+</td>
+            <td>-2</td>
             <td>10</td>
             <td>10d6</td>
             <td>4</td>
@@ -390,7 +407,7 @@ cssclasses:
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="19">* CON modifiers no longer apply after level 10.<br/># Add your WIS modifier to the number of Invocation Dice.<br/>^ Add your INT modifier to the number of 1st level spells you can prepare.</td>
+            <td colspan="20">* CON modifiers no longer apply after level 10.<br/># Add your WIS modifier to the number of Invocation Dice.<br/>^ Add your INT modifier to the number of 1st level spells you can prepare.</td>
         </tr>
     </tfoot>
 </table>

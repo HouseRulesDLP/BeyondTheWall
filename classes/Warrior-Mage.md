@@ -2,8 +2,10 @@
 cssclasses:
   - btw
   - clean-embeds
+  - btw-small
 ---
 # Warrior-Mage
+- **Requirements:** STR or DEX 11+, INT 11+, CON 9+, WIS 9+
 - **HP at Level 1:** 6
 - **HP for Levels 2 to 10:** d6
 - **HP for Levels 11+:** +2/level
@@ -50,7 +52,7 @@ Each knack may only be chosen once unless specified otherwise.
 10. ![](Knacks.md#Slayer)
 
 ## Warrior-Mage Table
-<table>
+<table class="btw-small">
     <thead>
         <tr>
             <th rowspan="2">Level</th>
@@ -61,6 +63,7 @@ Each knack may only be chosen once unless specified otherwise.
             <th rowspan="2">Traits</th>
             <th rowspan="2">Knacks</th>
             <th colspan="5">Saving Throws</th>
+            <th rowspan="2">Save<br/>Mod</th>
             <th rowspan="2">Battle<br/>Mastery</th>
             <th rowspan="2">Damage<br/>Dealer</th>
             <th rowspan="2">Glancing Blow<br/>Threshold</th>
@@ -93,6 +96,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>14+</td>
             <td>15+</td>
             <td>15+</td>
+            <td>+0</td>
             <td>14+</td>
             <td>+0</td>
             <td>1</td>
@@ -115,6 +119,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>14+</td>
             <td>15+</td>
             <td>15+</td>
+            <td>+0</td>
             <td>14+</td>
             <td>+0</td>
             <td>1</td>
@@ -137,6 +142,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>13+</td>
             <td>15+</td>
             <td>14+</td>
+            <td>+0</td>
             <td>14+</td>
             <td>+1</td>
             <td>1</td>
@@ -159,6 +165,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>12+</td>
             <td>14+</td>
             <td>13+</td>
+            <td>+0</td>
             <td>12+</td>
             <td>+1</td>
             <td>2</td>
@@ -181,6 +188,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>12+</td>
             <td>14+</td>
             <td>13+</td>
+            <td>+0</td>
             <td>12+</td>
             <td>+1</td>
             <td>2</td>
@@ -203,6 +211,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>12+</td>
             <td>13+</td>
             <td>12+</td>
+            <td>+0</td>
             <td>12+</td>
             <td>+2</td>
             <td>2</td>
@@ -225,6 +234,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>11+</td>
             <td>12+</td>
             <td>11+</td>
+            <td>-1</td>
             <td>10+</td>
             <td>+2</td>
             <td>3</td>
@@ -247,6 +257,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>11+</td>
             <td>12+</td>
             <td>11+</td>
+            <td>-1</td>
             <td>10+</td>
             <td>+2</td>
             <td>3</td>
@@ -269,6 +280,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>10+</td>
             <td>11+</td>
             <td>10+</td>
+            <td>-1</td>
             <td>10+</td>
             <td>+3</td>
             <td>3</td>
@@ -291,6 +303,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>9+</td>
             <td>10+</td>
             <td>10+</td>
+            <td>-1</td>
             <td>9+</td>
             <td>+3</td>
             <td>4</td>
@@ -313,6 +326,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>9+</td>
             <td>10+</td>
             <td>9+</td>
+            <td>-1</td>
             <td>9+</td>
             <td>+3</td>
             <td>4</td>
@@ -335,6 +349,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>8+</td>
             <td>10+</td>
             <td>9+</td>
+            <td>-1</td>
             <td>9+</td>
             <td>+4</td>
             <td>4</td>
@@ -357,6 +372,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>7+</td>
             <td>9+</td>
             <td>8+</td>
+            <td>-2</td>
             <td>8+</td>
             <td>+4</td>
             <td>5</td>
@@ -379,6 +395,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>7+</td>
             <td>9+</td>
             <td>8+</td>
+            <td>-2</td>
             <td>8+</td>
             <td>+4</td>
             <td>5</td>
@@ -401,6 +418,7 @@ Each knack may only be chosen once unless specified otherwise.
             <td>7+</td>
             <td>8+</td>
             <td>7+</td>
+            <td>-2</td>
             <td>8+</td>
             <td>+5</td>
             <td>5</td>
@@ -413,7 +431,7 @@ Each knack may only be chosen once unless specified otherwise.
     </tbody>
     <tfoot>
         <tr>
-            <td colspan="20">* CON modifiers no longer apply after level 10.<br/>^ Add your INT modifier to the number of 1st level spells you can prepare.<br/># Add your WIS modifier to the number of Invocation Dice.</td>
+            <td colspan="21">* CON modifiers no longer apply after level 10.<br/>^ Add your INT modifier to the number of 1st level spells you can prepare.<br/># Add your WIS modifier to the number of Invocation Dice.</td>
         </tr>
     </tfoot>
 </table>
