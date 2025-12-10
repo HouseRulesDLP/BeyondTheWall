@@ -61,6 +61,10 @@
 .btw-diagram table {
     border: solid 1px black;
 }
+
+
+
+
 .btw-diagram td {
     width: 3em;
     height: 3em;
@@ -127,5 +131,52 @@
 .btw-small table tfoot td {
     text-align: left !important;
     background-color: lightgrey;
+}
+
+
+
+
+.btw-class table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-bottom: solid 2px black;
+    text-align: center;
+}
+.btw-class table thead th {
+    font-family: 'Soutane Black';
+    font-weight: strong;
+    font-size: 1.1em;
+    padding-left: 1em;
+    border-bottom: solid 1px black !important;
+    vertical-align: bottom;
+    min-width: 3.44em;
+    background-color: lightgrey !important;
+    text-align: center;
+}
+.btw-class table td {
+    min-width: 3.44em;
+    font-size: 1em;
+    padding-left: 1em;
+    padding-bottom: 0.1em;
+    vertical-align: top;
+    border: solid 1px grey !important;
+    text-align: center;
+}
+.btw-class table th.right-align,
+.btw-class table td:nth-child(2) {
+    text-align: right !important;
+}
+.btw-class table tr:nth-child(odd) {
+    background-color: #F5F4F2 !important;
+}
+.btw-class table tbody tr:hover td {
+    background-color: lightblue;
+}
+.btw-class table tfoot td {
+    text-align: left !important;
+    background-color: lightgrey;
+}
+.btw-class-diagram table {
+    border: solid 1px black;
 }
 /* ------ */
