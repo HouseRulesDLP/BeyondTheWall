@@ -1,10 +1,13 @@
 {
-  "theme": "moonstone",
-  "textFontFamily": "Courier New",
-  "monospaceFontFamily": "Courier New",
   "enabledCssSnippets": [
+    "clean_wiki_style_callout_box",
     "clean-embeds",
-    "table-formats"
+    "fade_header",
+    "hover_properties_w-columns",
+    "S - Encoded Fonts",
+    "S - Encoded Icons",
+    "Theme - DnD"
   ],
-  "cssTheme": "Material Gruvbox"
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme"
 }

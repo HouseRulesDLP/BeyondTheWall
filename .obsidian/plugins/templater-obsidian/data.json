@@ -1,13 +1,13 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_templates",
+  "templates_folder": "z. Templates",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": false,
   "shell_path": "",
@@ -15,7 +15,22 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
+      "folder": "2. Mechanics/2. House Rules/Species",
+      "template": "z. Templates/species.md"
+    },
+    {
+      "folder": "2. Mechanics/2. House Rules/Classes",
+      "template": "z. Templates/Class.md"
+    },
+    {
       "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
       "template": ""
     }
   ],
@@ -26,5 +41,6 @@
   ],
   "startup_templates": [
     ""
-  ]
+  ],
+  "intellisense_render": 1
 }

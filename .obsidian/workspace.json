@@ -8,147 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85a686e2ef266768",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rest_and_Recovery.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Rest_and_Recovery"
-            }
-          },
-          {
             "id": "818d0be5a65533f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Warrior-Mage.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Warrior-Mage"
-            }
-          },
-          {
-            "id": "5fe7b4c47fe0f2cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snips/Knacks.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Knacks"
-            }
-          },
-          {
-            "id": "1e33fc360df09d64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skills.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Skills"
-            }
-          },
-          {
-            "id": "6625fc8fb88c0f01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "1048dd4c2ff6c4aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "classes/Rogue.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rogue"
-            }
-          },
-          {
-            "id": "4293434706adebbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "snips/ClassAbilities.md",
+                "file": "classes/ClassAbilities.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -164,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "ClassAbilities"
+            }
+          },
+          {
+            "id": "8b9dea04cc03ecb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Change_List.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Change_List"
             }
           }
         ],
@@ -199,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "true name",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -311,17 +200,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "818d0be5a65533f4",
+  "active": "8b9dea04cc03ecb9",
   "lastOpenFiles": [
-    "classes/Mage-Warrior.md",
+    "open_office/lu67116ndhl.tmp",
+    "open_office/lu67116ndhf.tmp",
+    "open_office/lu67116ndh9.tmp",
+    "open_office/lu67116ndge.tmp",
+    "open_office/lu67116ndft.tmp",
+    "open_office/lu67116ndfn.tmp",
+    "open_office/BtW House Rules II.ods",
+    "open_office/lu67116ndfh.tmp",
+    "classes/ClassAbilities.md",
+    "Change_List.md",
+    "Glossary.md",
+    "Traits.md",
     "classes/Warrior-Mage.md",
+    "classes/Mage-Warrior.md",
     "classes/Untitled.md",
     "snips/ClassAbilities.md",
     "classes/Rogue.md",
     "classes/Rogue-Warrior.md",
     "snips/Knacks.md",
     "classes/Warrior-Rogue.md",
-    "Glossary.md",
     "Magic.md",
     "classes/Warrior.md",
     "Skills.md",
@@ -331,23 +231,12 @@
     "README.md",
     "Battle_Maneuvers.md",
     "Wilderness.md",
-    "Traits.md",
     "Rest_and_Recovery.md",
     "Reactions.md",
     "Lingering_Injury.md",
     "Languages.md",
     "Hirelings_and_Allies.md",
-    "DieSteps.md",
-    "Countdown_Pools.md",
-    "Cosmic_Allegiance.md",
     "_css",
-    "species",
-    "classes",
-    "notes",
-    "node_modules/deploy/test/simple-test.sh",
-    "node_modules/deploy/test/branches-test.sh",
-    "node_modules/deploy/test/assert.sh",
-    "node_modules/deploy/test/assert.out",
-    "node_modules/deploy/test"
+    "species"
   ]
 }

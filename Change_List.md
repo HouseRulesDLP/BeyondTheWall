@@ -1,0 +1,11 @@
+- [ ] Single saving throw modified by class and abilities.
+- [ ] Skill Tiers: Unskilled (-4), Apprentice (+0), Journeyman (+2), Expert (+4), Master (+5), Grand Master (+6)
+- [ ] Allow mages to scribe rituals onto scrolls.  Casting from a scroll consumes the scroll but allows the ritual to be completed in a fraction of the time.
+- [ ] Revise cantrips and spells so that cantrips are reliable but non-combat and spells require a skill roll.
+	- [ ] Casting roll result becomes the save target.
+- [ ] BX-style ability modifiers.
+- [ ] Combat Stunts (similar to DCC) for all classes: Fighter (+1/2 levels), Rogue (+1/3 levels), Mage (+1/4 levels)
+- [ ] Use Countdown Pools for continuing effects with variable duration (including dying, some spell durations, torch durations, etc).
+- [ ] Generate ability scores with either playbooks or BARFLIP and make sure they balance against each other.
+- [ ] Explicit damage types: Acid, Blunt, Cold, Fire, Force, Lightning, Necrotic, Pierce, Poison, Spirit (Psychic), Radiant, Slash, Thunder
+- [ ] 

@@ -1,7 +1,9 @@
 {
-  "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true,
-  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "z. Assets",
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "useTab": false,
   "livePreview": false,
-  "readableLineLength": false
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

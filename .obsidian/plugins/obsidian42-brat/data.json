@@ -1,0 +1,33 @@
+{
+  "pluginList": [
+    "Obsidian-TTRPG-Community/Granite",
+    "deathau/cm-editor-syntax-highlight-obsidian",
+    "hay-kot/obsidian-dnd-ui-toolkit"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Obsidian-TTRPG-Community/Granite",
+      "version": ""
+    },
+    {
+      "repo": "deathau/cm-editor-syntax-highlight-obsidian",
+      "version": ""
+    },
+    {
+      "repo": "hay-kot/obsidian-dnd-ui-toolkit",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
